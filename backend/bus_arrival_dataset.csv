@@ -1,0 +1,1441 @@
+date,day_of_week,weather,traffic,stop,stop_order,scheduled_time,scheduled_min,delay_min,actual_arrival
+2026-06-15,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.3,7:31
+2026-06-15,Mon,Clear,Medium,Pump Jn,2,7:35,455,2.3,7:37
+2026-06-15,Mon,Clear,Medium,Thottumugham,3,7:40,460,1.5,7:42
+2026-06-15,Mon,Clear,Medium,Kuttamassery,4,7:50,470,1.7,7:52
+2026-06-15,Mon,Clear,Medium,Marampilly,5,7:55,475,2.2,7:57
+2026-06-15,Mon,Clear,Medium,Manjappetty,6,8:00,480,2.4,8:02
+2026-06-15,Mon,Clear,Medium,Mudikkal,7,8:10,490,3.3,8:13
+2026-06-15,Mon,Clear,Medium,Perumbavoor,8,8:20,500,3.8,8:24
+2026-06-15,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,5.2,8:35
+2026-06-15,Mon,Clear,Medium,Payipra,10,8:35,515,5.7,8:41
+2026-06-15,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,6.8,8:47
+2026-06-15,Mon,Clear,Medium,ICET,12,8:45,525,7.6,8:53
+2026-06-16,Tue,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.5,7:30
+2026-06-16,Tue,Rain,Medium,Pump Jn,2,7:35,455,0.6,7:36
+2026-06-16,Tue,Rain,Medium,Thottumugham,3,7:40,460,1.1,7:41
+2026-06-16,Tue,Rain,Medium,Kuttamassery,4,7:50,470,2.0,7:52
+2026-06-16,Tue,Rain,Medium,Marampilly,5,7:55,475,2.1,7:57
+2026-06-16,Tue,Rain,Medium,Manjappetty,6,8:00,480,3.4,8:03
+2026-06-16,Tue,Rain,Medium,Mudikkal,7,8:10,490,4.4,8:14
+2026-06-16,Tue,Rain,Medium,Perumbavoor,8,8:20,500,5.8,8:26
+2026-06-16,Tue,Rain,Medium,Pulluvazhy,9,8:30,510,7.2,8:37
+2026-06-16,Tue,Rain,Medium,Payipra,10,8:35,515,7.9,8:43
+2026-06-16,Tue,Rain,Medium,Ilahia Arts College,11,8:40,520,8.7,8:49
+2026-06-16,Tue,Rain,Medium,ICET,12,8:45,525,9.5,8:54
+2026-06-17,Wed,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-0.0,7:30
+2026-06-17,Wed,Clear,High,Pump Jn,2,7:35,455,0.1,7:35
+2026-06-17,Wed,Clear,High,Thottumugham,3,7:40,460,1.1,7:41
+2026-06-17,Wed,Clear,High,Kuttamassery,4,7:50,470,2.9,7:53
+2026-06-17,Wed,Clear,High,Marampilly,5,7:55,475,3.5,7:58
+2026-06-17,Wed,Clear,High,Manjappetty,6,8:00,480,3.6,8:04
+2026-06-17,Wed,Clear,High,Mudikkal,7,8:10,490,4.3,8:14
+2026-06-17,Wed,Clear,High,Perumbavoor,8,8:20,500,9.1,8:29
+2026-06-17,Wed,Clear,High,Pulluvazhy,9,8:30,510,10.6,8:41
+2026-06-17,Wed,Clear,High,Payipra,10,8:35,515,10.8,8:46
+2026-06-17,Wed,Clear,High,Ilahia Arts College,11,8:40,520,11.5,8:52
+2026-06-17,Wed,Clear,High,ICET,12,8:45,525,12.2,8:57
+2026-06-18,Thu,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-06-18,Thu,Rain,Medium,Pump Jn,2,7:35,455,1.7,7:37
+2026-06-18,Thu,Rain,Medium,Thottumugham,3,7:40,460,2.2,7:42
+2026-06-18,Thu,Rain,Medium,Kuttamassery,4,7:50,470,3.4,7:53
+2026-06-18,Thu,Rain,Medium,Marampilly,5,7:55,475,4.3,7:59
+2026-06-18,Thu,Rain,Medium,Manjappetty,6,8:00,480,4.0,8:04
+2026-06-18,Thu,Rain,Medium,Mudikkal,7,8:10,490,4.9,8:15
+2026-06-18,Thu,Rain,Medium,Perumbavoor,8,8:20,500,6.3,8:26
+2026-06-18,Thu,Rain,Medium,Pulluvazhy,9,8:30,510,7.1,8:37
+2026-06-18,Thu,Rain,Medium,Payipra,10,8:35,515,8.6,8:44
+2026-06-18,Thu,Rain,Medium,Ilahia Arts College,11,8:40,520,8.6,8:49
+2026-06-18,Thu,Rain,Medium,ICET,12,8:45,525,9.7,8:55
+2026-06-19,Fri,Clear,High,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-06-19,Fri,Clear,High,Pump Jn,2,7:35,455,1.7,7:37
+2026-06-19,Fri,Clear,High,Thottumugham,3,7:40,460,2.8,7:43
+2026-06-19,Fri,Clear,High,Kuttamassery,4,7:50,470,4.6,7:55
+2026-06-19,Fri,Clear,High,Marampilly,5,7:55,475,5.0,8:00
+2026-06-19,Fri,Clear,High,Manjappetty,6,8:00,480,5.4,8:05
+2026-06-19,Fri,Clear,High,Mudikkal,7,8:10,490,7.2,8:17
+2026-06-19,Fri,Clear,High,Perumbavoor,8,8:20,500,13.3,8:33
+2026-06-19,Fri,Clear,High,Pulluvazhy,9,8:30,510,13.9,8:44
+2026-06-19,Fri,Clear,High,Payipra,10,8:35,515,14.0,8:49
+2026-06-19,Fri,Clear,High,Ilahia Arts College,11,8:40,520,15.0,8:55
+2026-06-19,Fri,Clear,High,ICET,12,8:45,525,15.7,9:01
+2026-06-20,Sat,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-06-20,Sat,Clear,Medium,Pump Jn,2,7:35,455,1.3,7:36
+2026-06-20,Sat,Clear,Medium,Thottumugham,3,7:40,460,1.4,7:41
+2026-06-20,Sat,Clear,Medium,Kuttamassery,4,7:50,470,2.2,7:52
+2026-06-20,Sat,Clear,Medium,Marampilly,5,7:55,475,2.0,7:57
+2026-06-20,Sat,Clear,Medium,Manjappetty,6,8:00,480,2.1,8:02
+2026-06-20,Sat,Clear,Medium,Mudikkal,7,8:10,490,2.4,8:12
+2026-06-20,Sat,Clear,Medium,Perumbavoor,8,8:20,500,2.9,8:23
+2026-06-20,Sat,Clear,Medium,Pulluvazhy,9,8:30,510,3.1,8:33
+2026-06-20,Sat,Clear,Medium,Payipra,10,8:35,515,3.4,8:38
+2026-06-20,Sat,Clear,Medium,Ilahia Arts College,11,8:40,520,4.0,8:44
+2026-06-20,Sat,Clear,Medium,ICET,12,8:45,525,4.5,8:49
+2026-06-22,Mon,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.1,7:30
+2026-06-22,Mon,Rain,Medium,Pump Jn,2,7:35,455,0.7,7:36
+2026-06-22,Mon,Rain,Medium,Thottumugham,3,7:40,460,0.3,7:40
+2026-06-22,Mon,Rain,Medium,Kuttamassery,4,7:50,470,0.7,7:51
+2026-06-22,Mon,Rain,Medium,Marampilly,5,7:55,475,0.5,7:56
+2026-06-22,Mon,Rain,Medium,Manjappetty,6,8:00,480,0.5,8:01
+2026-06-22,Mon,Rain,Medium,Mudikkal,7,8:10,490,2.0,8:12
+2026-06-22,Mon,Rain,Medium,Perumbavoor,8,8:20,500,6.0,8:26
+2026-06-22,Mon,Rain,Medium,Pulluvazhy,9,8:30,510,8.1,8:38
+2026-06-22,Mon,Rain,Medium,Payipra,10,8:35,515,8.5,8:43
+2026-06-22,Mon,Rain,Medium,Ilahia Arts College,11,8:40,520,9.6,8:50
+2026-06-22,Mon,Rain,Medium,ICET,12,8:45,525,9.6,8:55
+2026-06-23,Tue,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-06-23,Tue,Rain,Low,Pump Jn,2,7:35,455,1.0,7:36
+2026-06-23,Tue,Rain,Low,Thottumugham,3,7:40,460,0.2,7:40
+2026-06-23,Tue,Rain,Low,Kuttamassery,4,7:50,470,1.1,7:51
+2026-06-23,Tue,Rain,Low,Marampilly,5,7:55,475,1.5,7:57
+2026-06-23,Tue,Rain,Low,Manjappetty,6,8:00,480,1.5,8:01
+2026-06-23,Tue,Rain,Low,Mudikkal,7,8:10,490,1.2,8:11
+2026-06-23,Tue,Rain,Low,Perumbavoor,8,8:20,500,3.1,8:23
+2026-06-23,Tue,Rain,Low,Pulluvazhy,9,8:30,510,3.8,8:34
+2026-06-23,Tue,Rain,Low,Payipra,10,8:35,515,4.1,8:39
+2026-06-23,Tue,Rain,Low,Ilahia Arts College,11,8:40,520,5.4,8:45
+2026-06-23,Tue,Rain,Low,ICET,12,8:45,525,5.6,8:51
+2026-06-24,Wed,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-06-24,Wed,Rain,Medium,Pump Jn,2,7:35,455,2.1,7:37
+2026-06-24,Wed,Rain,Medium,Thottumugham,3,7:40,460,3.1,7:43
+2026-06-24,Wed,Rain,Medium,Kuttamassery,4,7:50,470,4.4,7:54
+2026-06-24,Wed,Rain,Medium,Marampilly,5,7:55,475,5.8,8:01
+2026-06-24,Wed,Rain,Medium,Manjappetty,6,8:00,480,5.6,8:06
+2026-06-24,Wed,Rain,Medium,Mudikkal,7,8:10,490,6.2,8:16
+2026-06-24,Wed,Rain,Medium,Perumbavoor,8,8:20,500,7.3,8:27
+2026-06-24,Wed,Rain,Medium,Pulluvazhy,9,8:30,510,7.5,8:38
+2026-06-24,Wed,Rain,Medium,Payipra,10,8:35,515,8.4,8:43
+2026-06-24,Wed,Rain,Medium,Ilahia Arts College,11,8:40,520,8.8,8:49
+2026-06-24,Wed,Rain,Medium,ICET,12,8:45,525,8.5,8:53
+2026-06-25,Thu,Rain,High,Vidhya Niketan School Ground,1,7:30,450,1.3,7:31
+2026-06-25,Thu,Rain,High,Pump Jn,2,7:35,455,3.3,7:38
+2026-06-25,Thu,Rain,High,Thottumugham,3,7:40,460,5.8,7:46
+2026-06-25,Thu,Rain,High,Kuttamassery,4,7:50,470,7.5,7:58
+2026-06-25,Thu,Rain,High,Marampilly,5,7:55,475,7.7,8:03
+2026-06-25,Thu,Rain,High,Manjappetty,6,8:00,480,7.2,8:07
+2026-06-25,Thu,Rain,High,Mudikkal,7,8:10,490,8.8,8:19
+2026-06-25,Thu,Rain,High,Perumbavoor,8,8:20,500,11.0,8:31
+2026-06-25,Thu,Rain,High,Pulluvazhy,9,8:30,510,12.1,8:42
+2026-06-25,Thu,Rain,High,Payipra,10,8:35,515,12.8,8:48
+2026-06-25,Thu,Rain,High,Ilahia Arts College,11,8:40,520,14.2,8:54
+2026-06-25,Thu,Rain,High,ICET,12,8:45,525,15.0,8:00
+2026-06-26,Fri,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,-1.2,7:29
+2026-06-26,Fri,Rain,Medium,Pump Jn,2,7:35,455,-0.9,7:34
+2026-06-26,Fri,Rain,Medium,Thottumugham,3,7:40,460,-0.3,7:40
+2026-06-26,Fri,Rain,Medium,Kuttamassery,4,7:50,470,1.9,7:52
+2026-06-26,Fri,Rain,Medium,Marampilly,5,7:55,475,2.5,7:58
+2026-06-26,Fri,Rain,Medium,Manjappetty,6,8:00,480,3.7,8:04
+2026-06-26,Fri,Rain,Medium,Mudikkal,7,8:10,490,4.6,8:15
+2026-06-26,Fri,Rain,Medium,Perumbavoor,8,8:20,500,5.5,8:25
+2026-06-26,Fri,Rain,Medium,Pulluvazhy,9,8:30,510,6.2,8:36
+2026-06-26,Fri,Rain,Medium,Payipra,10,8:35,515,8.0,8:43
+2026-06-26,Fri,Rain,Medium,Ilahia Arts College,11,8:40,520,8.1,8:48
+2026-06-26,Fri,Rain,Medium,ICET,12,8:45,525,9.2,8:54
+2026-06-27,Sat,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-06-27,Sat,Rain,High,Pump Jn,2,7:35,455,1.3,7:36
+2026-06-27,Sat,Rain,High,Thottumugham,3,7:40,460,1.8,7:42
+2026-06-27,Sat,Rain,High,Kuttamassery,4,7:50,470,2.5,7:52
+2026-06-27,Sat,Rain,High,Marampilly,5,7:55,475,3.3,7:58
+2026-06-27,Sat,Rain,High,Manjappetty,6,8:00,480,3.5,8:04
+2026-06-27,Sat,Rain,High,Mudikkal,7,8:10,490,3.8,8:14
+2026-06-27,Sat,Rain,High,Perumbavoor,8,8:20,500,6.4,8:26
+2026-06-27,Sat,Rain,High,Pulluvazhy,9,8:30,510,8.4,8:38
+2026-06-27,Sat,Rain,High,Payipra,10,8:35,515,9.0,8:44
+2026-06-27,Sat,Rain,High,Ilahia Arts College,11,8:40,520,9.5,8:49
+2026-06-27,Sat,Rain,High,ICET,12,8:45,525,10.2,8:55
+2026-06-29,Mon,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.1,7:30
+2026-06-29,Mon,Rain,High,Pump Jn,2,7:35,455,1.7,7:37
+2026-06-29,Mon,Rain,High,Thottumugham,3,7:40,460,2.8,7:43
+2026-06-29,Mon,Rain,High,Kuttamassery,4,7:50,470,5.5,7:56
+2026-06-29,Mon,Rain,High,Marampilly,5,7:55,475,6.5,8:02
+2026-06-29,Mon,Rain,High,Manjappetty,6,8:00,480,6.7,8:07
+2026-06-29,Mon,Rain,High,Mudikkal,7,8:10,490,7.7,8:18
+2026-06-29,Mon,Rain,High,Perumbavoor,8,8:20,500,13.0,8:33
+2026-06-29,Mon,Rain,High,Pulluvazhy,9,8:30,510,14.7,8:45
+2026-06-29,Mon,Rain,High,Payipra,10,8:35,515,15.4,8:50
+2026-06-29,Mon,Rain,High,Ilahia Arts College,11,8:40,520,17.1,8:57
+2026-06-29,Mon,Rain,High,ICET,12,8:45,525,17.4,9:02
+2026-06-30,Tue,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.1,7:30
+2026-06-30,Tue,Rain,High,Pump Jn,2,7:35,455,0.9,7:36
+2026-06-30,Tue,Rain,High,Thottumugham,3,7:40,460,1.5,7:42
+2026-06-30,Tue,Rain,High,Kuttamassery,4,7:50,470,3.2,7:53
+2026-06-30,Tue,Rain,High,Marampilly,5,7:55,475,4.8,7:00
+2026-06-30,Tue,Rain,High,Manjappetty,6,8:00,480,5.6,8:06
+2026-06-30,Tue,Rain,High,Mudikkal,7,8:10,490,7.5,8:17
+2026-06-30,Tue,Rain,High,Perumbavoor,8,8:20,500,9.4,8:29
+2026-06-30,Tue,Rain,High,Pulluvazhy,9,8:30,510,10.4,8:40
+2026-06-30,Tue,Rain,High,Payipra,10,8:35,515,10.4,8:45
+2026-06-30,Tue,Rain,High,Ilahia Arts College,11,8:40,520,10.6,8:51
+2026-06-30,Tue,Rain,High,ICET,12,8:45,525,11.2,8:56
+2026-07-01,Wed,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.5,7:31
+2026-07-01,Wed,Clear,Medium,Pump Jn,2,7:35,455,0.6,7:36
+2026-07-01,Wed,Clear,Medium,Thottumugham,3,7:40,460,0.8,7:41
+2026-07-01,Wed,Clear,Medium,Kuttamassery,4,7:50,470,2.1,7:52
+2026-07-01,Wed,Clear,Medium,Marampilly,5,7:55,475,2.8,7:58
+2026-07-01,Wed,Clear,Medium,Manjappetty,6,8:00,480,4.0,8:04
+2026-07-01,Wed,Clear,Medium,Mudikkal,7,8:10,490,4.7,8:15
+2026-07-01,Wed,Clear,Medium,Perumbavoor,8,8:20,500,5.1,8:25
+2026-07-01,Wed,Clear,Medium,Pulluvazhy,9,8:30,510,6.0,8:36
+2026-07-01,Wed,Clear,Medium,Payipra,10,8:35,515,6.4,8:41
+2026-07-01,Wed,Clear,Medium,Ilahia Arts College,11,8:40,520,6.2,8:46
+2026-07-01,Wed,Clear,Medium,ICET,12,8:45,525,6.6,8:52
+2026-07-02,Thu,Rain,High,Vidhya Niketan School Ground,1,7:30,450,2.4,7:32
+2026-07-02,Thu,Rain,High,Pump Jn,2,7:35,455,2.6,7:38
+2026-07-02,Thu,Rain,High,Thottumugham,3,7:40,460,3.2,7:43
+2026-07-02,Thu,Rain,High,Kuttamassery,4,7:50,470,3.8,7:54
+2026-07-02,Thu,Rain,High,Marampilly,5,7:55,475,4.2,7:59
+2026-07-02,Thu,Rain,High,Manjappetty,6,8:00,480,5.1,8:05
+2026-07-02,Thu,Rain,High,Mudikkal,7,8:10,490,7.4,8:17
+2026-07-02,Thu,Rain,High,Perumbavoor,8,8:20,500,10.0,8:30
+2026-07-02,Thu,Rain,High,Pulluvazhy,9,8:30,510,10.2,8:40
+2026-07-02,Thu,Rain,High,Payipra,10,8:35,515,10.8,8:46
+2026-07-02,Thu,Rain,High,Ilahia Arts College,11,8:40,520,11.0,8:51
+2026-07-02,Thu,Rain,High,ICET,12,8:45,525,11.4,8:56
+2026-07-03,Fri,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.4,7:30
+2026-07-03,Fri,Rain,Medium,Pump Jn,2,7:35,455,-0.1,7:35
+2026-07-03,Fri,Rain,Medium,Thottumugham,3,7:40,460,-0.4,7:40
+2026-07-03,Fri,Rain,Medium,Kuttamassery,4,7:50,470,2.1,7:52
+2026-07-03,Fri,Rain,Medium,Marampilly,5,7:55,475,1.9,7:57
+2026-07-03,Fri,Rain,Medium,Manjappetty,6,8:00,480,1.8,8:02
+2026-07-03,Fri,Rain,Medium,Mudikkal,7,8:10,490,4.0,8:14
+2026-07-03,Fri,Rain,Medium,Perumbavoor,8,8:20,500,7.0,8:27
+2026-07-03,Fri,Rain,Medium,Pulluvazhy,9,8:30,510,8.0,8:38
+2026-07-03,Fri,Rain,Medium,Payipra,10,8:35,515,8.7,8:44
+2026-07-03,Fri,Rain,Medium,Ilahia Arts College,11,8:40,520,10.4,8:50
+2026-07-03,Fri,Rain,Medium,ICET,12,8:45,525,10.3,8:55
+2026-07-04,Sat,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-07-04,Sat,Rain,High,Pump Jn,2,7:35,455,1.2,7:36
+2026-07-04,Sat,Rain,High,Thottumugham,3,7:40,460,1.7,7:42
+2026-07-04,Sat,Rain,High,Kuttamassery,4,7:50,470,1.9,7:52
+2026-07-04,Sat,Rain,High,Marampilly,5,7:55,475,2.3,7:57
+2026-07-04,Sat,Rain,High,Manjappetty,6,8:00,480,2.7,8:03
+2026-07-04,Sat,Rain,High,Mudikkal,7,8:10,490,3.8,8:14
+2026-07-04,Sat,Rain,High,Perumbavoor,8,8:20,500,8.4,8:28
+2026-07-04,Sat,Rain,High,Pulluvazhy,9,8:30,510,10.1,8:40
+2026-07-04,Sat,Rain,High,Payipra,10,8:35,515,10.7,8:46
+2026-07-04,Sat,Rain,High,Ilahia Arts College,11,8:40,520,11.4,8:51
+2026-07-04,Sat,Rain,High,ICET,12,8:45,525,12.0,8:57
+2026-07-06,Mon,Clear,High,Vidhya Niketan School Ground,1,7:30,450,0.8,7:31
+2026-07-06,Mon,Clear,High,Pump Jn,2,7:35,455,1.5,7:36
+2026-07-06,Mon,Clear,High,Thottumugham,3,7:40,460,3.5,7:43
+2026-07-06,Mon,Clear,High,Kuttamassery,4,7:50,470,5.8,7:56
+2026-07-06,Mon,Clear,High,Marampilly,5,7:55,475,6.8,8:02
+2026-07-06,Mon,Clear,High,Manjappetty,6,8:00,480,7.1,8:07
+2026-07-06,Mon,Clear,High,Mudikkal,7,8:10,490,7.8,8:18
+2026-07-06,Mon,Clear,High,Perumbavoor,8,8:20,500,10.1,8:30
+2026-07-06,Mon,Clear,High,Pulluvazhy,9,8:30,510,11.8,8:42
+2026-07-06,Mon,Clear,High,Payipra,10,8:35,515,11.5,8:47
+2026-07-06,Mon,Clear,High,Ilahia Arts College,11,8:40,520,12.8,8:53
+2026-07-06,Mon,Clear,High,ICET,12,8:45,525,13.8,8:59
+2026-07-07,Tue,Clear,High,Vidhya Niketan School Ground,1,7:30,450,0.8,7:31
+2026-07-07,Tue,Clear,High,Pump Jn,2,7:35,455,1.4,7:36
+2026-07-07,Tue,Clear,High,Thottumugham,3,7:40,460,1.8,7:42
+2026-07-07,Tue,Clear,High,Kuttamassery,4,7:50,470,3.0,7:53
+2026-07-07,Tue,Clear,High,Marampilly,5,7:55,475,3.4,7:58
+2026-07-07,Tue,Clear,High,Manjappetty,6,8:00,480,4.1,8:04
+2026-07-07,Tue,Clear,High,Mudikkal,7,8:10,490,6.2,8:16
+2026-07-07,Tue,Clear,High,Perumbavoor,8,8:20,500,6.7,8:27
+2026-07-07,Tue,Clear,High,Pulluvazhy,9,8:30,510,8.0,8:38
+2026-07-07,Tue,Clear,High,Payipra,10,8:35,515,8.8,8:44
+2026-07-07,Tue,Clear,High,Ilahia Arts College,11,8:40,520,9.2,8:49
+2026-07-07,Tue,Clear,High,ICET,12,8:45,525,8.7,8:54
+2026-07-08,Wed,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,-1.0,7:29
+2026-07-08,Wed,Rain,Low,Pump Jn,2,7:35,455,-0.2,7:35
+2026-07-08,Wed,Rain,Low,Thottumugham,3,7:40,460,-0.1,7:40
+2026-07-08,Wed,Rain,Low,Kuttamassery,4,7:50,470,0.5,7:50
+2026-07-08,Wed,Rain,Low,Marampilly,5,7:55,475,0.1,7:55
+2026-07-08,Wed,Rain,Low,Manjappetty,6,8:00,480,0.2,8:00
+2026-07-08,Wed,Rain,Low,Mudikkal,7,8:10,490,1.6,8:12
+2026-07-08,Wed,Rain,Low,Perumbavoor,8,8:20,500,3.3,8:23
+2026-07-08,Wed,Rain,Low,Pulluvazhy,9,8:30,510,4.6,8:35
+2026-07-08,Wed,Rain,Low,Payipra,10,8:35,515,5.2,8:40
+2026-07-08,Wed,Rain,Low,Ilahia Arts College,11,8:40,520,6.5,8:47
+2026-07-08,Wed,Rain,Low,ICET,12,8:45,525,7.1,8:52
+2026-07-09,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.6,7:31
+2026-07-09,Thu,Clear,Medium,Pump Jn,2,7:35,455,0.5,7:36
+2026-07-09,Thu,Clear,Medium,Thottumugham,3,7:40,460,1.5,7:41
+2026-07-09,Thu,Clear,Medium,Kuttamassery,4,7:50,470,1.5,7:52
+2026-07-09,Thu,Clear,Medium,Marampilly,5,7:55,475,2.4,7:57
+2026-07-09,Thu,Clear,Medium,Manjappetty,6,8:00,480,2.6,8:03
+2026-07-09,Thu,Clear,Medium,Mudikkal,7,8:10,490,4.1,8:14
+2026-07-09,Thu,Clear,Medium,Perumbavoor,8,8:20,500,9.2,8:29
+2026-07-09,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,10.4,8:40
+2026-07-09,Thu,Clear,Medium,Payipra,10,8:35,515,9.8,8:45
+2026-07-09,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,10.2,8:50
+2026-07-09,Thu,Clear,Medium,ICET,12,8:45,525,9.9,8:55
+2026-07-10,Fri,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-07-10,Fri,Clear,Medium,Pump Jn,2,7:35,455,1.1,7:36
+2026-07-10,Fri,Clear,Medium,Thottumugham,3,7:40,460,0.9,7:41
+2026-07-10,Fri,Clear,Medium,Kuttamassery,4,7:50,470,1.8,7:52
+2026-07-10,Fri,Clear,Medium,Marampilly,5,7:55,475,1.5,7:56
+2026-07-10,Fri,Clear,Medium,Manjappetty,6,8:00,480,1.5,8:01
+2026-07-10,Fri,Clear,Medium,Mudikkal,7,8:10,490,2.5,8:12
+2026-07-10,Fri,Clear,Medium,Perumbavoor,8,8:20,500,4.9,8:25
+2026-07-10,Fri,Clear,Medium,Pulluvazhy,9,8:30,510,4.4,8:34
+2026-07-10,Fri,Clear,Medium,Payipra,10,8:35,515,5.0,8:40
+2026-07-10,Fri,Clear,Medium,Ilahia Arts College,11,8:40,520,5.4,8:45
+2026-07-10,Fri,Clear,Medium,ICET,12,8:45,525,6.1,8:51
+2026-07-11,Sat,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.1,7:30
+2026-07-11,Sat,Rain,Medium,Pump Jn,2,7:35,455,0.6,7:36
+2026-07-11,Sat,Rain,Medium,Thottumugham,3,7:40,460,0.0,7:40
+2026-07-11,Sat,Rain,Medium,Kuttamassery,4,7:50,470,1.7,7:52
+2026-07-11,Sat,Rain,Medium,Marampilly,5,7:55,475,2.3,7:57
+2026-07-11,Sat,Rain,Medium,Manjappetty,6,8:00,480,3.1,8:03
+2026-07-11,Sat,Rain,Medium,Mudikkal,7,8:10,490,3.5,8:14
+2026-07-11,Sat,Rain,Medium,Perumbavoor,8,8:20,500,5.0,8:25
+2026-07-11,Sat,Rain,Medium,Pulluvazhy,9,8:30,510,5.8,8:36
+2026-07-11,Sat,Rain,Medium,Payipra,10,8:35,515,6.3,8:41
+2026-07-11,Sat,Rain,Medium,Ilahia Arts College,11,8:40,520,6.9,8:47
+2026-07-11,Sat,Rain,Medium,ICET,12,8:45,525,6.7,8:52
+2026-07-13,Mon,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-07-13,Mon,Rain,Low,Pump Jn,2,7:35,455,1.8,7:37
+2026-07-13,Mon,Rain,Low,Thottumugham,3,7:40,460,1.6,7:42
+2026-07-13,Mon,Rain,Low,Kuttamassery,4,7:50,470,2.2,7:52
+2026-07-13,Mon,Rain,Low,Marampilly,5,7:55,475,3.5,7:58
+2026-07-13,Mon,Rain,Low,Manjappetty,6,8:00,480,3.4,8:03
+2026-07-13,Mon,Rain,Low,Mudikkal,7,8:10,490,3.6,8:14
+2026-07-13,Mon,Rain,Low,Perumbavoor,8,8:20,500,4.8,8:25
+2026-07-13,Mon,Rain,Low,Pulluvazhy,9,8:30,510,5.6,8:36
+2026-07-13,Mon,Rain,Low,Payipra,10,8:35,515,6.7,8:42
+2026-07-13,Mon,Rain,Low,Ilahia Arts College,11,8:40,520,7.6,8:48
+2026-07-13,Mon,Rain,Low,ICET,12,8:45,525,8.5,8:53
+2026-07-14,Tue,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.3,7:30
+2026-07-14,Tue,Rain,High,Pump Jn,2,7:35,455,-0.2,7:35
+2026-07-14,Tue,Rain,High,Thottumugham,3,7:40,460,1.6,7:42
+2026-07-14,Tue,Rain,High,Kuttamassery,4,7:50,470,2.8,7:53
+2026-07-14,Tue,Rain,High,Marampilly,5,7:55,475,3.6,7:59
+2026-07-14,Tue,Rain,High,Manjappetty,6,8:00,480,5.1,8:05
+2026-07-14,Tue,Rain,High,Mudikkal,7,8:10,490,5.7,8:16
+2026-07-14,Tue,Rain,High,Perumbavoor,8,8:20,500,13.2,8:33
+2026-07-14,Tue,Rain,High,Pulluvazhy,9,8:30,510,14.2,8:44
+2026-07-14,Tue,Rain,High,Payipra,10,8:35,515,15.2,8:50
+2026-07-14,Tue,Rain,High,Ilahia Arts College,11,8:40,520,16.3,8:56
+2026-07-14,Tue,Rain,High,ICET,12,8:45,525,17.2,9:02
+2026-07-15,Wed,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.6,7:31
+2026-07-15,Wed,Rain,High,Pump Jn,2,7:35,455,1.0,7:36
+2026-07-15,Wed,Rain,High,Thottumugham,3,7:40,460,2.0,7:42
+2026-07-15,Wed,Rain,High,Kuttamassery,4,7:50,470,4.0,7:54
+2026-07-15,Wed,Rain,High,Marampilly,5,7:55,475,4.8,7:00
+2026-07-15,Wed,Rain,High,Manjappetty,6,8:00,480,6.0,8:06
+2026-07-15,Wed,Rain,High,Mudikkal,7,8:10,490,7.6,8:18
+2026-07-15,Wed,Rain,High,Perumbavoor,8,8:20,500,10.2,8:30
+2026-07-15,Wed,Rain,High,Pulluvazhy,9,8:30,510,11.6,8:42
+2026-07-15,Wed,Rain,High,Payipra,10,8:35,515,12.5,8:47
+2026-07-15,Wed,Rain,High,Ilahia Arts College,11,8:40,520,13.7,8:54
+2026-07-15,Wed,Rain,High,ICET,12,8:45,525,14.2,8:59
+2026-07-16,Thu,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,0.4,7:30
+2026-07-16,Thu,Clear,Low,Pump Jn,2,7:35,455,1.0,7:36
+2026-07-16,Thu,Clear,Low,Thottumugham,3,7:40,460,-0.0,7:40
+2026-07-16,Thu,Clear,Low,Kuttamassery,4,7:50,470,-0.5,7:50
+2026-07-16,Thu,Clear,Low,Marampilly,5,7:55,475,-1.2,7:54
+2026-07-16,Thu,Clear,Low,Manjappetty,6,8:00,480,-2.0,7:58
+2026-07-16,Thu,Clear,Low,Mudikkal,7,8:10,490,-2.0,8:08
+2026-07-16,Thu,Clear,Low,Perumbavoor,8,8:20,500,0.3,8:20
+2026-07-16,Thu,Clear,Low,Pulluvazhy,9,8:30,510,0.8,8:31
+2026-07-16,Thu,Clear,Low,Payipra,10,8:35,515,1.6,8:37
+2026-07-16,Thu,Clear,Low,Ilahia Arts College,11,8:40,520,2.5,8:43
+2026-07-16,Thu,Clear,Low,ICET,12,8:45,525,2.6,8:48
+2026-07-17,Fri,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,1.9,7:32
+2026-07-17,Fri,Rain,Medium,Pump Jn,2,7:35,455,2.5,7:37
+2026-07-17,Fri,Rain,Medium,Thottumugham,3,7:40,460,2.6,7:43
+2026-07-17,Fri,Rain,Medium,Kuttamassery,4,7:50,470,3.4,7:53
+2026-07-17,Fri,Rain,Medium,Marampilly,5,7:55,475,3.0,7:58
+2026-07-17,Fri,Rain,Medium,Manjappetty,6,8:00,480,3.1,8:03
+2026-07-17,Fri,Rain,Medium,Mudikkal,7,8:10,490,4.0,8:14
+2026-07-17,Fri,Rain,Medium,Perumbavoor,8,8:20,500,7.6,8:28
+2026-07-17,Fri,Rain,Medium,Pulluvazhy,9,8:30,510,7.9,8:38
+2026-07-17,Fri,Rain,Medium,Payipra,10,8:35,515,8.7,8:44
+2026-07-17,Fri,Rain,Medium,Ilahia Arts College,11,8:40,520,8.7,8:49
+2026-07-17,Fri,Rain,Medium,ICET,12,8:45,525,9.5,8:55
+2026-07-18,Sat,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.4,7:31
+2026-07-18,Sat,Clear,Medium,Pump Jn,2,7:35,455,1.3,7:36
+2026-07-18,Sat,Clear,Medium,Thottumugham,3,7:40,460,1.3,7:41
+2026-07-18,Sat,Clear,Medium,Kuttamassery,4,7:50,470,1.2,7:51
+2026-07-18,Sat,Clear,Medium,Marampilly,5,7:55,475,1.0,7:56
+2026-07-18,Sat,Clear,Medium,Manjappetty,6,8:00,480,1.5,8:02
+2026-07-18,Sat,Clear,Medium,Mudikkal,7,8:10,490,2.0,8:12
+2026-07-18,Sat,Clear,Medium,Perumbavoor,8,8:20,500,3.0,8:23
+2026-07-18,Sat,Clear,Medium,Pulluvazhy,9,8:30,510,4.3,8:34
+2026-07-18,Sat,Clear,Medium,Payipra,10,8:35,515,4.3,8:39
+2026-07-18,Sat,Clear,Medium,Ilahia Arts College,11,8:40,520,3.7,8:44
+2026-07-18,Sat,Clear,Medium,ICET,12,8:45,525,4.6,8:50
+2026-07-20,Mon,Clear,High,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-07-20,Mon,Clear,High,Pump Jn,2,7:35,455,1.5,7:37
+2026-07-20,Mon,Clear,High,Thottumugham,3,7:40,460,2.5,7:42
+2026-07-20,Mon,Clear,High,Kuttamassery,4,7:50,470,5.1,7:55
+2026-07-20,Mon,Clear,High,Marampilly,5,7:55,475,7.0,8:02
+2026-07-20,Mon,Clear,High,Manjappetty,6,8:00,480,7.8,8:08
+2026-07-20,Mon,Clear,High,Mudikkal,7,8:10,490,9.3,8:19
+2026-07-20,Mon,Clear,High,Perumbavoor,8,8:20,500,12.3,8:32
+2026-07-20,Mon,Clear,High,Pulluvazhy,9,8:30,510,13.9,8:44
+2026-07-20,Mon,Clear,High,Payipra,10,8:35,515,14.6,8:50
+2026-07-20,Mon,Clear,High,Ilahia Arts College,11,8:40,520,15.5,8:56
+2026-07-20,Mon,Clear,High,ICET,12,8:45,525,15.8,9:01
+2026-07-21,Tue,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.6,7:29
+2026-07-21,Tue,Rain,Medium,Pump Jn,2,7:35,455,-0.4,7:35
+2026-07-21,Tue,Rain,Medium,Thottumugham,3,7:40,460,-0.0,7:40
+2026-07-21,Tue,Rain,Medium,Kuttamassery,4,7:50,470,2.2,7:52
+2026-07-21,Tue,Rain,Medium,Marampilly,5,7:55,475,3.4,7:58
+2026-07-21,Tue,Rain,Medium,Manjappetty,6,8:00,480,3.3,8:03
+2026-07-21,Tue,Rain,Medium,Mudikkal,7,8:10,490,4.6,8:15
+2026-07-21,Tue,Rain,Medium,Perumbavoor,8,8:20,500,7.9,8:28
+2026-07-21,Tue,Rain,Medium,Pulluvazhy,9,8:30,510,9.0,8:39
+2026-07-21,Tue,Rain,Medium,Payipra,10,8:35,515,9.9,8:45
+2026-07-21,Tue,Rain,Medium,Ilahia Arts College,11,8:40,520,10.2,8:50
+2026-07-21,Tue,Rain,Medium,ICET,12,8:45,525,11.4,8:56
+2026-07-22,Wed,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,3.1,7:33
+2026-07-22,Wed,Rain,Medium,Pump Jn,2,7:35,455,3.8,7:39
+2026-07-22,Wed,Rain,Medium,Thottumugham,3,7:40,460,5.1,7:45
+2026-07-22,Wed,Rain,Medium,Kuttamassery,4,7:50,470,6.2,7:56
+2026-07-22,Wed,Rain,Medium,Marampilly,5,7:55,475,7.1,8:02
+2026-07-22,Wed,Rain,Medium,Manjappetty,6,8:00,480,7.6,8:08
+2026-07-22,Wed,Rain,Medium,Mudikkal,7,8:10,490,8.6,8:19
+2026-07-22,Wed,Rain,Medium,Perumbavoor,8,8:20,500,10.0,8:30
+2026-07-22,Wed,Rain,Medium,Pulluvazhy,9,8:30,510,10.5,8:41
+2026-07-22,Wed,Rain,Medium,Payipra,10,8:35,515,11.5,8:46
+2026-07-22,Wed,Rain,Medium,Ilahia Arts College,11,8:40,520,12.6,8:53
+2026-07-22,Wed,Rain,Medium,ICET,12,8:45,525,13.4,8:58
+2026-07-23,Thu,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-07-23,Thu,Rain,Medium,Pump Jn,2,7:35,455,1.3,7:36
+2026-07-23,Thu,Rain,Medium,Thottumugham,3,7:40,460,0.7,7:41
+2026-07-23,Thu,Rain,Medium,Kuttamassery,4,7:50,470,1.6,7:52
+2026-07-23,Thu,Rain,Medium,Marampilly,5,7:55,475,0.9,7:56
+2026-07-23,Thu,Rain,Medium,Manjappetty,6,8:00,480,0.5,8:01
+2026-07-23,Thu,Rain,Medium,Mudikkal,7,8:10,490,2.4,8:12
+2026-07-23,Thu,Rain,Medium,Perumbavoor,8,8:20,500,7.6,8:28
+2026-07-23,Thu,Rain,Medium,Pulluvazhy,9,8:30,510,7.7,8:38
+2026-07-23,Thu,Rain,Medium,Payipra,10,8:35,515,6.5,8:41
+2026-07-23,Thu,Rain,Medium,Ilahia Arts College,11,8:40,520,6.7,8:47
+2026-07-23,Thu,Rain,Medium,ICET,12,8:45,525,8.7,8:54
+2026-07-24,Fri,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.0,7:31
+2026-07-24,Fri,Clear,Medium,Pump Jn,2,7:35,455,0.4,7:35
+2026-07-24,Fri,Clear,Medium,Thottumugham,3,7:40,460,0.7,7:41
+2026-07-24,Fri,Clear,Medium,Kuttamassery,4,7:50,470,1.6,7:52
+2026-07-24,Fri,Clear,Medium,Marampilly,5,7:55,475,1.9,7:57
+2026-07-24,Fri,Clear,Medium,Manjappetty,6,8:00,480,2.8,8:03
+2026-07-24,Fri,Clear,Medium,Mudikkal,7,8:10,490,3.8,8:14
+2026-07-24,Fri,Clear,Medium,Perumbavoor,8,8:20,500,5.7,8:26
+2026-07-24,Fri,Clear,Medium,Pulluvazhy,9,8:30,510,7.1,8:37
+2026-07-24,Fri,Clear,Medium,Payipra,10,8:35,515,8.5,8:43
+2026-07-24,Fri,Clear,Medium,Ilahia Arts College,11,8:40,520,8.3,8:48
+2026-07-24,Fri,Clear,Medium,ICET,12,8:45,525,8.2,8:53
+2026-07-25,Sat,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,1.9,7:32
+2026-07-25,Sat,Clear,Low,Pump Jn,2,7:35,455,1.7,7:37
+2026-07-25,Sat,Clear,Low,Thottumugham,3,7:40,460,2.7,7:43
+2026-07-25,Sat,Clear,Low,Kuttamassery,4,7:50,470,3.0,7:53
+2026-07-25,Sat,Clear,Low,Marampilly,5,7:55,475,3.3,7:58
+2026-07-25,Sat,Clear,Low,Manjappetty,6,8:00,480,4.3,8:04
+2026-07-25,Sat,Clear,Low,Mudikkal,7,8:10,490,4.3,8:14
+2026-07-25,Sat,Clear,Low,Perumbavoor,8,8:20,500,5.0,8:25
+2026-07-25,Sat,Clear,Low,Pulluvazhy,9,8:30,510,5.5,8:36
+2026-07-25,Sat,Clear,Low,Payipra,10,8:35,515,4.7,8:40
+2026-07-25,Sat,Clear,Low,Ilahia Arts College,11,8:40,520,5.2,8:45
+2026-07-25,Sat,Clear,Low,ICET,12,8:45,525,5.0,8:50
+2026-07-27,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.3,7:30
+2026-07-27,Mon,Clear,Medium,Pump Jn,2,7:35,455,-0.8,7:34
+2026-07-27,Mon,Clear,Medium,Thottumugham,3,7:40,460,-0.9,7:39
+2026-07-27,Mon,Clear,Medium,Kuttamassery,4,7:50,470,0.2,7:50
+2026-07-27,Mon,Clear,Medium,Marampilly,5,7:55,475,0.5,7:55
+2026-07-27,Mon,Clear,Medium,Manjappetty,6,8:00,480,0.8,8:01
+2026-07-27,Mon,Clear,Medium,Mudikkal,7,8:10,490,1.6,8:12
+2026-07-27,Mon,Clear,Medium,Perumbavoor,8,8:20,500,3.0,8:23
+2026-07-27,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,4.3,8:34
+2026-07-27,Mon,Clear,Medium,Payipra,10,8:35,515,5.2,8:40
+2026-07-27,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,5.9,8:46
+2026-07-27,Mon,Clear,Medium,ICET,12,8:45,525,6.7,8:52
+2026-07-28,Tue,Clear,High,Vidhya Niketan School Ground,1,7:30,450,0.4,7:30
+2026-07-28,Tue,Clear,High,Pump Jn,2,7:35,455,0.8,7:36
+2026-07-28,Tue,Clear,High,Thottumugham,3,7:40,460,1.0,7:41
+2026-07-28,Tue,Clear,High,Kuttamassery,4,7:50,470,1.6,7:52
+2026-07-28,Tue,Clear,High,Marampilly,5,7:55,475,1.4,7:56
+2026-07-28,Tue,Clear,High,Manjappetty,6,8:00,480,1.5,8:01
+2026-07-28,Tue,Clear,High,Mudikkal,7,8:10,490,2.6,8:13
+2026-07-28,Tue,Clear,High,Perumbavoor,8,8:20,500,4.4,8:24
+2026-07-28,Tue,Clear,High,Pulluvazhy,9,8:30,510,5.2,8:35
+2026-07-28,Tue,Clear,High,Payipra,10,8:35,515,6.3,8:41
+2026-07-28,Tue,Clear,High,Ilahia Arts College,11,8:40,520,7.3,8:47
+2026-07-28,Tue,Clear,High,ICET,12,8:45,525,7.8,8:53
+2026-07-29,Wed,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-07-29,Wed,Clear,Medium,Pump Jn,2,7:35,455,0.2,7:35
+2026-07-29,Wed,Clear,Medium,Thottumugham,3,7:40,460,0.5,7:41
+2026-07-29,Wed,Clear,Medium,Kuttamassery,4,7:50,470,1.4,7:51
+2026-07-29,Wed,Clear,Medium,Marampilly,5,7:55,475,1.3,7:56
+2026-07-29,Wed,Clear,Medium,Manjappetty,6,8:00,480,1.8,8:02
+2026-07-29,Wed,Clear,Medium,Mudikkal,7,8:10,490,1.6,8:12
+2026-07-29,Wed,Clear,Medium,Perumbavoor,8,8:20,500,5.5,8:26
+2026-07-29,Wed,Clear,Medium,Pulluvazhy,9,8:30,510,6.1,8:36
+2026-07-29,Wed,Clear,Medium,Payipra,10,8:35,515,6.7,8:42
+2026-07-29,Wed,Clear,Medium,Ilahia Arts College,11,8:40,520,5.6,8:46
+2026-07-29,Wed,Clear,Medium,ICET,12,8:45,525,5.3,8:50
+2026-07-30,Thu,Clear,High,Vidhya Niketan School Ground,1,7:30,450,1.2,7:31
+2026-07-30,Thu,Clear,High,Pump Jn,2,7:35,455,3.0,7:38
+2026-07-30,Thu,Clear,High,Thottumugham,3,7:40,460,2.9,7:43
+2026-07-30,Thu,Clear,High,Kuttamassery,4,7:50,470,3.6,7:54
+2026-07-30,Thu,Clear,High,Marampilly,5,7:55,475,4.3,7:59
+2026-07-30,Thu,Clear,High,Manjappetty,6,8:00,480,5.9,8:06
+2026-07-30,Thu,Clear,High,Mudikkal,7,8:10,490,6.4,8:16
+2026-07-30,Thu,Clear,High,Perumbavoor,8,8:20,500,11.2,8:31
+2026-07-30,Thu,Clear,High,Pulluvazhy,9,8:30,510,11.4,8:41
+2026-07-30,Thu,Clear,High,Payipra,10,8:35,515,11.3,8:46
+2026-07-30,Thu,Clear,High,Ilahia Arts College,11,8:40,520,11.6,8:52
+2026-07-30,Thu,Clear,High,ICET,12,8:45,525,11.9,8:57
+2026-07-31,Fri,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-1.3,7:29
+2026-07-31,Fri,Clear,Medium,Pump Jn,2,7:35,455,-0.6,7:34
+2026-07-31,Fri,Clear,Medium,Thottumugham,3,7:40,460,-0.5,7:40
+2026-07-31,Fri,Clear,Medium,Kuttamassery,4,7:50,470,1.1,7:51
+2026-07-31,Fri,Clear,Medium,Marampilly,5,7:55,475,1.1,7:56
+2026-07-31,Fri,Clear,Medium,Manjappetty,6,8:00,480,1.2,8:01
+2026-07-31,Fri,Clear,Medium,Mudikkal,7,8:10,490,2.3,8:12
+2026-07-31,Fri,Clear,Medium,Perumbavoor,8,8:20,500,3.7,8:24
+2026-07-31,Fri,Clear,Medium,Pulluvazhy,9,8:30,510,3.5,8:33
+2026-07-31,Fri,Clear,Medium,Payipra,10,8:35,515,4.2,8:39
+2026-07-31,Fri,Clear,Medium,Ilahia Arts College,11,8:40,520,4.0,8:44
+2026-07-31,Fri,Clear,Medium,ICET,12,8:45,525,4.6,8:50
+2026-08-01,Sat,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-0.3,7:30
+2026-08-01,Sat,Clear,High,Pump Jn,2,7:35,455,-0.7,7:34
+2026-08-01,Sat,Clear,High,Thottumugham,3,7:40,460,0.2,7:40
+2026-08-01,Sat,Clear,High,Kuttamassery,4,7:50,470,1.2,7:51
+2026-08-01,Sat,Clear,High,Marampilly,5,7:55,475,1.2,7:56
+2026-08-01,Sat,Clear,High,Manjappetty,6,8:00,480,2.5,8:03
+2026-08-01,Sat,Clear,High,Mudikkal,7,8:10,490,3.1,8:13
+2026-08-01,Sat,Clear,High,Perumbavoor,8,8:20,500,6.5,8:26
+2026-08-01,Sat,Clear,High,Pulluvazhy,9,8:30,510,6.9,8:37
+2026-08-01,Sat,Clear,High,Payipra,10,8:35,515,7.6,8:43
+2026-08-01,Sat,Clear,High,Ilahia Arts College,11,8:40,520,7.7,8:48
+2026-08-01,Sat,Clear,High,ICET,12,8:45,525,7.9,8:53
+2026-08-03,Mon,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,-1.9,7:28
+2026-08-03,Mon,Clear,Low,Pump Jn,2,7:35,455,-0.8,7:34
+2026-08-03,Mon,Clear,Low,Thottumugham,3,7:40,460,0.9,7:41
+2026-08-03,Mon,Clear,Low,Kuttamassery,4,7:50,470,1.1,7:51
+2026-08-03,Mon,Clear,Low,Marampilly,5,7:55,475,0.1,7:55
+2026-08-03,Mon,Clear,Low,Manjappetty,6,8:00,480,0.1,8:00
+2026-08-03,Mon,Clear,Low,Mudikkal,7,8:10,490,0.3,8:10
+2026-08-03,Mon,Clear,Low,Perumbavoor,8,8:20,500,1.4,8:21
+2026-08-03,Mon,Clear,Low,Pulluvazhy,9,8:30,510,2.1,8:32
+2026-08-03,Mon,Clear,Low,Payipra,10,8:35,515,2.6,8:38
+2026-08-03,Mon,Clear,Low,Ilahia Arts College,11,8:40,520,1.8,8:42
+2026-08-03,Mon,Clear,Low,ICET,12,8:45,525,2.4,8:47
+2026-08-04,Tue,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-08-04,Tue,Clear,Low,Pump Jn,2,7:35,455,0.2,7:35
+2026-08-04,Tue,Clear,Low,Thottumugham,3,7:40,460,0.7,7:41
+2026-08-04,Tue,Clear,Low,Kuttamassery,4,7:50,470,0.0,7:50
+2026-08-04,Tue,Clear,Low,Marampilly,5,7:55,475,0.3,7:55
+2026-08-04,Tue,Clear,Low,Manjappetty,6,8:00,480,0.2,8:00
+2026-08-04,Tue,Clear,Low,Mudikkal,7,8:10,490,1.6,8:12
+2026-08-04,Tue,Clear,Low,Perumbavoor,8,8:20,500,2.1,8:22
+2026-08-04,Tue,Clear,Low,Pulluvazhy,9,8:30,510,1.8,8:32
+2026-08-04,Tue,Clear,Low,Payipra,10,8:35,515,2.3,8:37
+2026-08-04,Tue,Clear,Low,Ilahia Arts College,11,8:40,520,2.6,8:43
+2026-08-04,Tue,Clear,Low,ICET,12,8:45,525,2.2,8:47
+2026-08-05,Wed,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-08-05,Wed,Clear,Medium,Pump Jn,2,7:35,455,-0.5,7:35
+2026-08-05,Wed,Clear,Medium,Thottumugham,3,7:40,460,-0.1,7:40
+2026-08-05,Wed,Clear,Medium,Kuttamassery,4,7:50,470,0.1,7:50
+2026-08-05,Wed,Clear,Medium,Marampilly,5,7:55,475,0.3,7:55
+2026-08-05,Wed,Clear,Medium,Manjappetty,6,8:00,480,0.6,8:01
+2026-08-05,Wed,Clear,Medium,Mudikkal,7,8:10,490,0.3,8:10
+2026-08-05,Wed,Clear,Medium,Perumbavoor,8,8:20,500,4.8,8:25
+2026-08-05,Wed,Clear,Medium,Pulluvazhy,9,8:30,510,5.2,8:35
+2026-08-05,Wed,Clear,Medium,Payipra,10,8:35,515,4.0,8:39
+2026-08-05,Wed,Clear,Medium,Ilahia Arts College,11,8:40,520,4.9,8:45
+2026-08-05,Wed,Clear,Medium,ICET,12,8:45,525,5.4,8:50
+2026-08-06,Thu,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,1.3,7:31
+2026-08-06,Thu,Rain,Low,Pump Jn,2,7:35,455,1.8,7:37
+2026-08-06,Thu,Rain,Low,Thottumugham,3,7:40,460,3.6,7:44
+2026-08-06,Thu,Rain,Low,Kuttamassery,4,7:50,470,4.4,7:54
+2026-08-06,Thu,Rain,Low,Marampilly,5,7:55,475,5.0,7:00
+2026-08-06,Thu,Rain,Low,Manjappetty,6,8:00,480,5.2,8:05
+2026-08-06,Thu,Rain,Low,Mudikkal,7,8:10,490,6.2,8:16
+2026-08-06,Thu,Rain,Low,Perumbavoor,8,8:20,500,7.8,8:28
+2026-08-06,Thu,Rain,Low,Pulluvazhy,9,8:30,510,8.1,8:38
+2026-08-06,Thu,Rain,Low,Payipra,10,8:35,515,8.2,8:43
+2026-08-06,Thu,Rain,Low,Ilahia Arts College,11,8:40,520,8.2,8:48
+2026-08-06,Thu,Rain,Low,ICET,12,8:45,525,9.0,8:54
+2026-08-07,Fri,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.1,7:30
+2026-08-07,Fri,Rain,Medium,Pump Jn,2,7:35,455,0.8,7:36
+2026-08-07,Fri,Rain,Medium,Thottumugham,3,7:40,460,1.3,7:41
+2026-08-07,Fri,Rain,Medium,Kuttamassery,4,7:50,470,3.0,7:53
+2026-08-07,Fri,Rain,Medium,Marampilly,5,7:55,475,2.2,7:57
+2026-08-07,Fri,Rain,Medium,Manjappetty,6,8:00,480,2.3,8:02
+2026-08-07,Fri,Rain,Medium,Mudikkal,7,8:10,490,3.0,8:13
+2026-08-07,Fri,Rain,Medium,Perumbavoor,8,8:20,500,2.8,8:23
+2026-08-07,Fri,Rain,Medium,Pulluvazhy,9,8:30,510,3.4,8:33
+2026-08-07,Fri,Rain,Medium,Payipra,10,8:35,515,3.9,8:39
+2026-08-07,Fri,Rain,Medium,Ilahia Arts College,11,8:40,520,5.1,8:45
+2026-08-07,Fri,Rain,Medium,ICET,12,8:45,525,5.6,8:51
+2026-08-08,Sat,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,1.5,7:32
+2026-08-08,Sat,Rain,Medium,Pump Jn,2,7:35,455,1.3,7:36
+2026-08-08,Sat,Rain,Medium,Thottumugham,3,7:40,460,1.2,7:41
+2026-08-08,Sat,Rain,Medium,Kuttamassery,4,7:50,470,2.2,7:52
+2026-08-08,Sat,Rain,Medium,Marampilly,5,7:55,475,2.5,7:57
+2026-08-08,Sat,Rain,Medium,Manjappetty,6,8:00,480,3.2,8:03
+2026-08-08,Sat,Rain,Medium,Mudikkal,7,8:10,490,3.9,8:14
+2026-08-08,Sat,Rain,Medium,Perumbavoor,8,8:20,500,7.0,8:27
+2026-08-08,Sat,Rain,Medium,Pulluvazhy,9,8:30,510,7.7,8:38
+2026-08-08,Sat,Rain,Medium,Payipra,10,8:35,515,8.0,8:43
+2026-08-08,Sat,Rain,Medium,Ilahia Arts College,11,8:40,520,7.6,8:48
+2026-08-08,Sat,Rain,Medium,ICET,12,8:45,525,7.0,8:52
+2026-08-10,Mon,Rain,High,Vidhya Niketan School Ground,1,7:30,450,-0.5,7:29
+2026-08-10,Mon,Rain,High,Pump Jn,2,7:35,455,0.3,7:35
+2026-08-10,Mon,Rain,High,Thottumugham,3,7:40,460,1.9,7:42
+2026-08-10,Mon,Rain,High,Kuttamassery,4,7:50,470,2.3,7:52
+2026-08-10,Mon,Rain,High,Marampilly,5,7:55,475,2.3,7:57
+2026-08-10,Mon,Rain,High,Manjappetty,6,8:00,480,2.7,8:03
+2026-08-10,Mon,Rain,High,Mudikkal,7,8:10,490,5.4,8:15
+2026-08-10,Mon,Rain,High,Perumbavoor,8,8:20,500,8.3,8:28
+2026-08-10,Mon,Rain,High,Pulluvazhy,9,8:30,510,9.4,8:39
+2026-08-10,Mon,Rain,High,Payipra,10,8:35,515,9.6,8:45
+2026-08-10,Mon,Rain,High,Ilahia Arts College,11,8:40,520,10.8,8:51
+2026-08-10,Mon,Rain,High,ICET,12,8:45,525,11.7,8:57
+2026-08-11,Tue,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.8,7:31
+2026-08-11,Tue,Rain,Low,Pump Jn,2,7:35,455,1.2,7:36
+2026-08-11,Tue,Rain,Low,Thottumugham,3,7:40,460,1.9,7:42
+2026-08-11,Tue,Rain,Low,Kuttamassery,4,7:50,470,3.0,7:53
+2026-08-11,Tue,Rain,Low,Marampilly,5,7:55,475,2.4,7:57
+2026-08-11,Tue,Rain,Low,Manjappetty,6,8:00,480,1.3,8:01
+2026-08-11,Tue,Rain,Low,Mudikkal,7,8:10,490,2.5,8:13
+2026-08-11,Tue,Rain,Low,Perumbavoor,8,8:20,500,5.8,8:26
+2026-08-11,Tue,Rain,Low,Pulluvazhy,9,8:30,510,5.3,8:35
+2026-08-11,Tue,Rain,Low,Payipra,10,8:35,515,5.7,8:41
+2026-08-11,Tue,Rain,Low,Ilahia Arts College,11,8:40,520,6.5,8:47
+2026-08-11,Tue,Rain,Low,ICET,12,8:45,525,7.9,8:53
+2026-08-12,Wed,Rain,High,Vidhya Niketan School Ground,1,7:30,450,-0.4,7:30
+2026-08-12,Wed,Rain,High,Pump Jn,2,7:35,455,0.4,7:35
+2026-08-12,Wed,Rain,High,Thottumugham,3,7:40,460,0.9,7:41
+2026-08-12,Wed,Rain,High,Kuttamassery,4,7:50,470,1.8,7:52
+2026-08-12,Wed,Rain,High,Marampilly,5,7:55,475,3.8,7:59
+2026-08-12,Wed,Rain,High,Manjappetty,6,8:00,480,5.6,8:06
+2026-08-12,Wed,Rain,High,Mudikkal,7,8:10,490,7.8,8:18
+2026-08-12,Wed,Rain,High,Perumbavoor,8,8:20,500,10.2,8:30
+2026-08-12,Wed,Rain,High,Pulluvazhy,9,8:30,510,12.1,8:42
+2026-08-12,Wed,Rain,High,Payipra,10,8:35,515,13.1,8:48
+2026-08-12,Wed,Rain,High,Ilahia Arts College,11,8:40,520,14.6,8:55
+2026-08-12,Wed,Rain,High,ICET,12,8:45,525,15.7,9:01
+2026-08-13,Thu,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.8,7:31
+2026-08-13,Thu,Rain,Low,Pump Jn,2,7:35,455,0.1,7:35
+2026-08-13,Thu,Rain,Low,Thottumugham,3,7:40,460,0.4,7:40
+2026-08-13,Thu,Rain,Low,Kuttamassery,4,7:50,470,0.7,7:51
+2026-08-13,Thu,Rain,Low,Marampilly,5,7:55,475,0.2,7:55
+2026-08-13,Thu,Rain,Low,Manjappetty,6,8:00,480,1.5,8:02
+2026-08-13,Thu,Rain,Low,Mudikkal,7,8:10,490,3.2,8:13
+2026-08-13,Thu,Rain,Low,Perumbavoor,8,8:20,500,7.0,8:27
+2026-08-13,Thu,Rain,Low,Pulluvazhy,9,8:30,510,8.4,8:38
+2026-08-13,Thu,Rain,Low,Payipra,10,8:35,515,8.7,8:44
+2026-08-13,Thu,Rain,Low,Ilahia Arts College,11,8:40,520,9.1,8:49
+2026-08-13,Thu,Rain,Low,ICET,12,8:45,525,8.8,8:54
+2026-08-14,Fri,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.8,7:29
+2026-08-14,Fri,Rain,Medium,Pump Jn,2,7:35,455,-0.3,7:35
+2026-08-14,Fri,Rain,Medium,Thottumugham,3,7:40,460,0.3,7:40
+2026-08-14,Fri,Rain,Medium,Kuttamassery,4,7:50,470,2.5,7:53
+2026-08-14,Fri,Rain,Medium,Marampilly,5,7:55,475,3.6,7:59
+2026-08-14,Fri,Rain,Medium,Manjappetty,6,8:00,480,4.2,8:04
+2026-08-14,Fri,Rain,Medium,Mudikkal,7,8:10,490,5.5,8:16
+2026-08-14,Fri,Rain,Medium,Perumbavoor,8,8:20,500,8.5,8:29
+2026-08-14,Fri,Rain,Medium,Pulluvazhy,9,8:30,510,9.0,8:39
+2026-08-14,Fri,Rain,Medium,Payipra,10,8:35,515,9.5,8:45
+2026-08-14,Fri,Rain,Medium,Ilahia Arts College,11,8:40,520,9.7,8:50
+2026-08-14,Fri,Rain,Medium,ICET,12,8:45,525,9.5,8:54
+2026-08-15,Sat,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,-1.3,7:29
+2026-08-15,Sat,Rain,Medium,Pump Jn,2,7:35,455,-1.0,7:34
+2026-08-15,Sat,Rain,Medium,Thottumugham,3,7:40,460,-0.0,7:40
+2026-08-15,Sat,Rain,Medium,Kuttamassery,4,7:50,470,1.3,7:51
+2026-08-15,Sat,Rain,Medium,Marampilly,5,7:55,475,2.3,7:57
+2026-08-15,Sat,Rain,Medium,Manjappetty,6,8:00,480,2.7,8:03
+2026-08-15,Sat,Rain,Medium,Mudikkal,7,8:10,490,2.9,8:13
+2026-08-15,Sat,Rain,Medium,Perumbavoor,8,8:20,500,5.1,8:25
+2026-08-15,Sat,Rain,Medium,Pulluvazhy,9,8:30,510,6.1,8:36
+2026-08-15,Sat,Rain,Medium,Payipra,10,8:35,515,7.2,8:42
+2026-08-15,Sat,Rain,Medium,Ilahia Arts College,11,8:40,520,8.3,8:48
+2026-08-15,Sat,Rain,Medium,ICET,12,8:45,525,8.6,8:54
+2026-08-17,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-08-17,Mon,Clear,Medium,Pump Jn,2,7:35,455,1.0,7:36
+2026-08-17,Mon,Clear,Medium,Thottumugham,3,7:40,460,1.1,7:41
+2026-08-17,Mon,Clear,Medium,Kuttamassery,4,7:50,470,2.2,7:52
+2026-08-17,Mon,Clear,Medium,Marampilly,5,7:55,475,2.3,7:57
+2026-08-17,Mon,Clear,Medium,Manjappetty,6,8:00,480,2.4,8:02
+2026-08-17,Mon,Clear,Medium,Mudikkal,7,8:10,490,3.5,8:14
+2026-08-17,Mon,Clear,Medium,Perumbavoor,8,8:20,500,5.2,8:25
+2026-08-17,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,6.3,8:36
+2026-08-17,Mon,Clear,Medium,Payipra,10,8:35,515,6.0,8:41
+2026-08-17,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,6.2,8:46
+2026-08-17,Mon,Clear,Medium,ICET,12,8:45,525,7.5,8:53
+2026-08-18,Tue,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-0.7,7:29
+2026-08-18,Tue,Clear,High,Pump Jn,2,7:35,455,-1.3,7:34
+2026-08-18,Tue,Clear,High,Thottumugham,3,7:40,460,-1.8,7:38
+2026-08-18,Tue,Clear,High,Kuttamassery,4,7:50,470,-0.6,7:49
+2026-08-18,Tue,Clear,High,Marampilly,5,7:55,475,-0.0,7:55
+2026-08-18,Tue,Clear,High,Manjappetty,6,8:00,480,0.5,8:01
+2026-08-18,Tue,Clear,High,Mudikkal,7,8:10,490,2.4,8:12
+2026-08-18,Tue,Clear,High,Perumbavoor,8,8:20,500,5.5,8:26
+2026-08-18,Tue,Clear,High,Pulluvazhy,9,8:30,510,7.7,8:38
+2026-08-18,Tue,Clear,High,Payipra,10,8:35,515,7.6,8:43
+2026-08-18,Tue,Clear,High,Ilahia Arts College,11,8:40,520,8.0,8:48
+2026-08-18,Tue,Clear,High,ICET,12,8:45,525,8.1,8:53
+2026-08-19,Wed,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,1.9,7:32
+2026-08-19,Wed,Clear,Low,Pump Jn,2,7:35,455,3.2,7:38
+2026-08-19,Wed,Clear,Low,Thottumugham,3,7:40,460,3.1,7:43
+2026-08-19,Wed,Clear,Low,Kuttamassery,4,7:50,470,4.6,7:55
+2026-08-19,Wed,Clear,Low,Marampilly,5,7:55,475,4.7,7:00
+2026-08-19,Wed,Clear,Low,Manjappetty,6,8:00,480,5.9,8:06
+2026-08-19,Wed,Clear,Low,Mudikkal,7,8:10,490,6.2,8:16
+2026-08-19,Wed,Clear,Low,Perumbavoor,8,8:20,500,7.3,8:27
+2026-08-19,Wed,Clear,Low,Pulluvazhy,9,8:30,510,9.5,8:39
+2026-08-19,Wed,Clear,Low,Payipra,10,8:35,515,10.1,8:45
+2026-08-19,Wed,Clear,Low,Ilahia Arts College,11,8:40,520,9.9,8:50
+2026-08-19,Wed,Clear,Low,ICET,12,8:45,525,10.6,8:56
+2026-08-20,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.4,7:31
+2026-08-20,Thu,Clear,Medium,Pump Jn,2,7:35,455,1.8,7:37
+2026-08-20,Thu,Clear,Medium,Thottumugham,3,7:40,460,2.3,7:42
+2026-08-20,Thu,Clear,Medium,Kuttamassery,4,7:50,470,3.1,7:53
+2026-08-20,Thu,Clear,Medium,Marampilly,5,7:55,475,3.7,7:59
+2026-08-20,Thu,Clear,Medium,Manjappetty,6,8:00,480,4.3,8:04
+2026-08-20,Thu,Clear,Medium,Mudikkal,7,8:10,490,3.9,8:14
+2026-08-20,Thu,Clear,Medium,Perumbavoor,8,8:20,500,5.9,8:26
+2026-08-20,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,5.8,8:36
+2026-08-20,Thu,Clear,Medium,Payipra,10,8:35,515,6.1,8:41
+2026-08-20,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,6.6,8:47
+2026-08-20,Thu,Clear,Medium,ICET,12,8:45,525,6.5,8:52
+2026-08-21,Fri,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.1,7:30
+2026-08-21,Fri,Rain,Low,Pump Jn,2,7:35,455,0.1,7:35
+2026-08-21,Fri,Rain,Low,Thottumugham,3,7:40,460,0.4,7:40
+2026-08-21,Fri,Rain,Low,Kuttamassery,4,7:50,470,1.2,7:51
+2026-08-21,Fri,Rain,Low,Marampilly,5,7:55,475,0.9,7:56
+2026-08-21,Fri,Rain,Low,Manjappetty,6,8:00,480,1.7,8:02
+2026-08-21,Fri,Rain,Low,Mudikkal,7,8:10,490,2.4,8:12
+2026-08-21,Fri,Rain,Low,Perumbavoor,8,8:20,500,2.4,8:22
+2026-08-21,Fri,Rain,Low,Pulluvazhy,9,8:30,510,3.1,8:33
+2026-08-21,Fri,Rain,Low,Payipra,10,8:35,515,3.3,8:38
+2026-08-21,Fri,Rain,Low,Ilahia Arts College,11,8:40,520,3.5,8:44
+2026-08-21,Fri,Rain,Low,ICET,12,8:45,525,3.8,8:49
+2026-08-22,Sat,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-0.6,7:29
+2026-08-22,Sat,Clear,High,Pump Jn,2,7:35,455,-0.9,7:34
+2026-08-22,Sat,Clear,High,Thottumugham,3,7:40,460,-1.1,7:39
+2026-08-22,Sat,Clear,High,Kuttamassery,4,7:50,470,-0.1,7:50
+2026-08-22,Sat,Clear,High,Marampilly,5,7:55,475,1.1,7:56
+2026-08-22,Sat,Clear,High,Manjappetty,6,8:00,480,1.2,8:01
+2026-08-22,Sat,Clear,High,Mudikkal,7,8:10,490,0.6,8:11
+2026-08-22,Sat,Clear,High,Perumbavoor,8,8:20,500,3.6,8:24
+2026-08-22,Sat,Clear,High,Pulluvazhy,9,8:30,510,4.1,8:34
+2026-08-22,Sat,Clear,High,Payipra,10,8:35,515,4.3,8:39
+2026-08-22,Sat,Clear,High,Ilahia Arts College,11,8:40,520,4.7,8:45
+2026-08-22,Sat,Clear,High,ICET,12,8:45,525,4.9,8:50
+2026-08-24,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.4,7:30
+2026-08-24,Mon,Clear,Medium,Pump Jn,2,7:35,455,0.4,7:35
+2026-08-24,Mon,Clear,Medium,Thottumugham,3,7:40,460,-0.1,7:40
+2026-08-24,Mon,Clear,Medium,Kuttamassery,4,7:50,470,1.0,7:51
+2026-08-24,Mon,Clear,Medium,Marampilly,5,7:55,475,1.5,7:57
+2026-08-24,Mon,Clear,Medium,Manjappetty,6,8:00,480,1.9,8:02
+2026-08-24,Mon,Clear,Medium,Mudikkal,7,8:10,490,3.8,8:14
+2026-08-24,Mon,Clear,Medium,Perumbavoor,8,8:20,500,4.9,8:25
+2026-08-24,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,5.7,8:36
+2026-08-24,Mon,Clear,Medium,Payipra,10,8:35,515,5.4,8:40
+2026-08-24,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,5.9,8:46
+2026-08-24,Mon,Clear,Medium,ICET,12,8:45,525,5.7,8:51
+2026-08-25,Tue,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-08-25,Tue,Rain,Medium,Pump Jn,2,7:35,455,1.2,7:36
+2026-08-25,Tue,Rain,Medium,Thottumugham,3,7:40,460,2.3,7:42
+2026-08-25,Tue,Rain,Medium,Kuttamassery,4,7:50,470,4.1,7:54
+2026-08-25,Tue,Rain,Medium,Marampilly,5,7:55,475,5.5,8:00
+2026-08-25,Tue,Rain,Medium,Manjappetty,6,8:00,480,6.3,8:06
+2026-08-25,Tue,Rain,Medium,Mudikkal,7,8:10,490,8.2,8:18
+2026-08-25,Tue,Rain,Medium,Perumbavoor,8,8:20,500,8.7,8:29
+2026-08-25,Tue,Rain,Medium,Pulluvazhy,9,8:30,510,9.2,8:39
+2026-08-25,Tue,Rain,Medium,Payipra,10,8:35,515,9.8,8:45
+2026-08-25,Tue,Rain,Medium,Ilahia Arts College,11,8:40,520,10.0,8:50
+2026-08-25,Tue,Rain,Medium,ICET,12,8:45,525,10.4,8:55
+2026-08-26,Wed,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-08-26,Wed,Rain,Medium,Pump Jn,2,7:35,455,1.3,7:36
+2026-08-26,Wed,Rain,Medium,Thottumugham,3,7:40,460,1.9,7:42
+2026-08-26,Wed,Rain,Medium,Kuttamassery,4,7:50,470,2.9,7:53
+2026-08-26,Wed,Rain,Medium,Marampilly,5,7:55,475,3.7,7:59
+2026-08-26,Wed,Rain,Medium,Manjappetty,6,8:00,480,4.9,8:05
+2026-08-26,Wed,Rain,Medium,Mudikkal,7,8:10,490,7.0,8:17
+2026-08-26,Wed,Rain,Medium,Perumbavoor,8,8:20,500,9.2,8:29
+2026-08-26,Wed,Rain,Medium,Pulluvazhy,9,8:30,510,9.5,8:40
+2026-08-26,Wed,Rain,Medium,Payipra,10,8:35,515,10.0,8:45
+2026-08-26,Wed,Rain,Medium,Ilahia Arts College,11,8:40,520,11.1,8:51
+2026-08-26,Wed,Rain,Medium,ICET,12,8:45,525,12.1,8:57
+2026-08-27,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.0,7:31
+2026-08-27,Thu,Clear,Medium,Pump Jn,2,7:35,455,2.1,7:37
+2026-08-27,Thu,Clear,Medium,Thottumugham,3,7:40,460,2.6,7:43
+2026-08-27,Thu,Clear,Medium,Kuttamassery,4,7:50,470,3.2,7:53
+2026-08-27,Thu,Clear,Medium,Marampilly,5,7:55,475,3.7,7:59
+2026-08-27,Thu,Clear,Medium,Manjappetty,6,8:00,480,2.4,8:02
+2026-08-27,Thu,Clear,Medium,Mudikkal,7,8:10,490,3.3,8:13
+2026-08-27,Thu,Clear,Medium,Perumbavoor,8,8:20,500,3.8,8:24
+2026-08-27,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,4.9,8:35
+2026-08-27,Thu,Clear,Medium,Payipra,10,8:35,515,5.5,8:41
+2026-08-27,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,5.2,8:45
+2026-08-27,Thu,Clear,Medium,ICET,12,8:45,525,5.2,8:50
+2026-08-28,Fri,Rain,High,Vidhya Niketan School Ground,1,7:30,450,2.7,7:33
+2026-08-28,Fri,Rain,High,Pump Jn,2,7:35,455,3.6,7:39
+2026-08-28,Fri,Rain,High,Thottumugham,3,7:40,460,4.6,7:45
+2026-08-28,Fri,Rain,High,Kuttamassery,4,7:50,470,7.3,7:57
+2026-08-28,Fri,Rain,High,Marampilly,5,7:55,475,8.2,8:03
+2026-08-28,Fri,Rain,High,Manjappetty,6,8:00,480,8.4,8:08
+2026-08-28,Fri,Rain,High,Mudikkal,7,8:10,490,10.0,8:20
+2026-08-28,Fri,Rain,High,Perumbavoor,8,8:20,500,21.9,8:42
+2026-08-28,Fri,Rain,High,Pulluvazhy,9,8:30,510,23.1,8:53
+2026-08-28,Fri,Rain,High,Payipra,10,8:35,515,24.5,8:00
+2026-08-28,Fri,Rain,High,Ilahia Arts College,11,8:40,520,25.4,9:05
+2026-08-28,Fri,Rain,High,ICET,12,8:45,525,26.0,9:11
+2026-08-29,Sat,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-08-29,Sat,Clear,Medium,Pump Jn,2,7:35,455,0.8,7:36
+2026-08-29,Sat,Clear,Medium,Thottumugham,3,7:40,460,0.4,7:40
+2026-08-29,Sat,Clear,Medium,Kuttamassery,4,7:50,470,1.6,7:52
+2026-08-29,Sat,Clear,Medium,Marampilly,5,7:55,475,1.6,7:57
+2026-08-29,Sat,Clear,Medium,Manjappetty,6,8:00,480,1.0,8:01
+2026-08-29,Sat,Clear,Medium,Mudikkal,7,8:10,490,1.8,8:12
+2026-08-29,Sat,Clear,Medium,Perumbavoor,8,8:20,500,4.0,8:24
+2026-08-29,Sat,Clear,Medium,Pulluvazhy,9,8:30,510,4.7,8:35
+2026-08-29,Sat,Clear,Medium,Payipra,10,8:35,515,5.4,8:40
+2026-08-29,Sat,Clear,Medium,Ilahia Arts College,11,8:40,520,5.9,8:46
+2026-08-29,Sat,Clear,Medium,ICET,12,8:45,525,6.5,8:52
+2026-08-31,Mon,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-08-31,Mon,Rain,High,Pump Jn,2,7:35,455,0.8,7:36
+2026-08-31,Mon,Rain,High,Thottumugham,3,7:40,460,2.2,7:42
+2026-08-31,Mon,Rain,High,Kuttamassery,4,7:50,470,4.9,7:55
+2026-08-31,Mon,Rain,High,Marampilly,5,7:55,475,6.9,8:02
+2026-08-31,Mon,Rain,High,Manjappetty,6,8:00,480,8.6,8:09
+2026-08-31,Mon,Rain,High,Mudikkal,7,8:10,490,10.3,8:20
+2026-08-31,Mon,Rain,High,Perumbavoor,8,8:20,500,12.7,8:33
+2026-08-31,Mon,Rain,High,Pulluvazhy,9,8:30,510,14.6,8:45
+2026-08-31,Mon,Rain,High,Payipra,10,8:35,515,15.5,8:51
+2026-08-31,Mon,Rain,High,Ilahia Arts College,11,8:40,520,16.9,8:57
+2026-08-31,Mon,Rain,High,ICET,12,8:45,525,17.8,9:03
+2026-09-01,Tue,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-09-01,Tue,Clear,Medium,Pump Jn,2,7:35,455,1.5,7:37
+2026-09-01,Tue,Clear,Medium,Thottumugham,3,7:40,460,2.1,7:42
+2026-09-01,Tue,Clear,Medium,Kuttamassery,4,7:50,470,3.2,7:53
+2026-09-01,Tue,Clear,Medium,Marampilly,5,7:55,475,3.4,7:58
+2026-09-01,Tue,Clear,Medium,Manjappetty,6,8:00,480,4.2,8:04
+2026-09-01,Tue,Clear,Medium,Mudikkal,7,8:10,490,5.2,8:15
+2026-09-01,Tue,Clear,Medium,Perumbavoor,8,8:20,500,5.6,8:26
+2026-09-01,Tue,Clear,Medium,Pulluvazhy,9,8:30,510,6.1,8:36
+2026-09-01,Tue,Clear,Medium,Payipra,10,8:35,515,5.4,8:40
+2026-09-01,Tue,Clear,Medium,Ilahia Arts College,11,8:40,520,5.2,8:45
+2026-09-01,Tue,Clear,Medium,ICET,12,8:45,525,4.9,8:50
+2026-09-02,Wed,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-09-02,Wed,Rain,Low,Pump Jn,2,7:35,455,0.8,7:36
+2026-09-02,Wed,Rain,Low,Thottumugham,3,7:40,460,1.3,7:41
+2026-09-02,Wed,Rain,Low,Kuttamassery,4,7:50,470,2.1,7:52
+2026-09-02,Wed,Rain,Low,Marampilly,5,7:55,475,2.7,7:58
+2026-09-02,Wed,Rain,Low,Manjappetty,6,8:00,480,3.3,8:03
+2026-09-02,Wed,Rain,Low,Mudikkal,7,8:10,490,2.7,8:13
+2026-09-02,Wed,Rain,Low,Perumbavoor,8,8:20,500,3.9,8:24
+2026-09-02,Wed,Rain,Low,Pulluvazhy,9,8:30,510,4.5,8:34
+2026-09-02,Wed,Rain,Low,Payipra,10,8:35,515,4.8,8:40
+2026-09-02,Wed,Rain,Low,Ilahia Arts College,11,8:40,520,5.7,8:46
+2026-09-02,Wed,Rain,Low,ICET,12,8:45,525,6.7,8:52
+2026-09-03,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.0,7:31
+2026-09-03,Thu,Clear,Medium,Pump Jn,2,7:35,455,1.0,7:36
+2026-09-03,Thu,Clear,Medium,Thottumugham,3,7:40,460,1.4,7:41
+2026-09-03,Thu,Clear,Medium,Kuttamassery,4,7:50,470,2.8,7:53
+2026-09-03,Thu,Clear,Medium,Marampilly,5,7:55,475,2.8,7:58
+2026-09-03,Thu,Clear,Medium,Manjappetty,6,8:00,480,3.7,8:04
+2026-09-03,Thu,Clear,Medium,Mudikkal,7,8:10,490,4.8,8:15
+2026-09-03,Thu,Clear,Medium,Perumbavoor,8,8:20,500,6.1,8:26
+2026-09-03,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,7.3,8:37
+2026-09-03,Thu,Clear,Medium,Payipra,10,8:35,515,7.7,8:43
+2026-09-03,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,7.6,8:48
+2026-09-03,Thu,Clear,Medium,ICET,12,8:45,525,7.5,8:52
+2026-09-04,Fri,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-0.5,7:30
+2026-09-04,Fri,Clear,High,Pump Jn,2,7:35,455,0.5,7:35
+2026-09-04,Fri,Clear,High,Thottumugham,3,7:40,460,0.4,7:40
+2026-09-04,Fri,Clear,High,Kuttamassery,4,7:50,470,1.6,7:52
+2026-09-04,Fri,Clear,High,Marampilly,5,7:55,475,2.3,7:57
+2026-09-04,Fri,Clear,High,Manjappetty,6,8:00,480,4.4,8:04
+2026-09-04,Fri,Clear,High,Mudikkal,7,8:10,490,4.9,8:15
+2026-09-04,Fri,Clear,High,Perumbavoor,8,8:20,500,11.5,8:31
+2026-09-04,Fri,Clear,High,Pulluvazhy,9,8:30,510,13.0,8:43
+2026-09-04,Fri,Clear,High,Payipra,10,8:35,515,13.8,8:49
+2026-09-04,Fri,Clear,High,Ilahia Arts College,11,8:40,520,14.7,8:55
+2026-09-04,Fri,Clear,High,ICET,12,8:45,525,15.3,9:00
+2026-09-05,Sat,Rain,High,Vidhya Niketan School Ground,1,7:30,450,1.6,7:32
+2026-09-05,Sat,Rain,High,Pump Jn,2,7:35,455,1.8,7:37
+2026-09-05,Sat,Rain,High,Thottumugham,3,7:40,460,2.3,7:42
+2026-09-05,Sat,Rain,High,Kuttamassery,4,7:50,470,2.7,7:53
+2026-09-05,Sat,Rain,High,Marampilly,5,7:55,475,3.5,7:58
+2026-09-05,Sat,Rain,High,Manjappetty,6,8:00,480,4.9,8:05
+2026-09-05,Sat,Rain,High,Mudikkal,7,8:10,490,5.9,8:16
+2026-09-05,Sat,Rain,High,Perumbavoor,8,8:20,500,7.9,8:28
+2026-09-05,Sat,Rain,High,Pulluvazhy,9,8:30,510,8.8,8:39
+2026-09-05,Sat,Rain,High,Payipra,10,8:35,515,8.4,8:43
+2026-09-05,Sat,Rain,High,Ilahia Arts College,11,8:40,520,8.4,8:48
+2026-09-05,Sat,Rain,High,ICET,12,8:45,525,9.0,8:54
+2026-09-07,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.1,7:30
+2026-09-07,Mon,Clear,Medium,Pump Jn,2,7:35,455,1.2,7:36
+2026-09-07,Mon,Clear,Medium,Thottumugham,3,7:40,460,1.8,7:42
+2026-09-07,Mon,Clear,Medium,Kuttamassery,4,7:50,470,2.6,7:53
+2026-09-07,Mon,Clear,Medium,Marampilly,5,7:55,475,3.3,7:58
+2026-09-07,Mon,Clear,Medium,Manjappetty,6,8:00,480,3.8,8:04
+2026-09-07,Mon,Clear,Medium,Mudikkal,7,8:10,490,4.8,8:15
+2026-09-07,Mon,Clear,Medium,Perumbavoor,8,8:20,500,5.7,8:26
+2026-09-07,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,5.7,8:36
+2026-09-07,Mon,Clear,Medium,Payipra,10,8:35,515,6.5,8:42
+2026-09-07,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,6.8,8:47
+2026-09-07,Mon,Clear,Medium,ICET,12,8:45,525,6.9,8:52
+2026-09-08,Tue,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-09-08,Tue,Clear,Medium,Pump Jn,2,7:35,455,0.7,7:36
+2026-09-08,Tue,Clear,Medium,Thottumugham,3,7:40,460,1.8,7:42
+2026-09-08,Tue,Clear,Medium,Kuttamassery,4,7:50,470,3.5,7:53
+2026-09-08,Tue,Clear,Medium,Marampilly,5,7:55,475,4.1,7:59
+2026-09-08,Tue,Clear,Medium,Manjappetty,6,8:00,480,5.1,8:05
+2026-09-08,Tue,Clear,Medium,Mudikkal,7,8:10,490,6.6,8:17
+2026-09-08,Tue,Clear,Medium,Perumbavoor,8,8:20,500,8.8,8:29
+2026-09-08,Tue,Clear,Medium,Pulluvazhy,9,8:30,510,9.9,8:40
+2026-09-08,Tue,Clear,Medium,Payipra,10,8:35,515,10.6,8:46
+2026-09-08,Tue,Clear,Medium,Ilahia Arts College,11,8:40,520,10.3,8:50
+2026-09-08,Tue,Clear,Medium,ICET,12,8:45,525,11.1,8:56
+2026-09-09,Wed,Clear,High,Vidhya Niketan School Ground,1,7:30,450,1.8,7:32
+2026-09-09,Wed,Clear,High,Pump Jn,2,7:35,455,2.9,7:38
+2026-09-09,Wed,Clear,High,Thottumugham,3,7:40,460,4.4,7:44
+2026-09-09,Wed,Clear,High,Kuttamassery,4,7:50,470,5.4,7:55
+2026-09-09,Wed,Clear,High,Marampilly,5,7:55,475,5.3,8:00
+2026-09-09,Wed,Clear,High,Manjappetty,6,8:00,480,5.8,8:06
+2026-09-09,Wed,Clear,High,Mudikkal,7,8:10,490,7.1,8:17
+2026-09-09,Wed,Clear,High,Perumbavoor,8,8:20,500,8.6,8:29
+2026-09-09,Wed,Clear,High,Pulluvazhy,9,8:30,510,9.5,8:40
+2026-09-09,Wed,Clear,High,Payipra,10,8:35,515,10.4,8:45
+2026-09-09,Wed,Clear,High,Ilahia Arts College,11,8:40,520,10.4,8:50
+2026-09-09,Wed,Clear,High,ICET,12,8:45,525,11.2,8:56
+2026-09-10,Thu,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.3,7:30
+2026-09-10,Thu,Rain,Medium,Pump Jn,2,7:35,455,0.7,7:36
+2026-09-10,Thu,Rain,Medium,Thottumugham,3,7:40,460,1.0,7:41
+2026-09-10,Thu,Rain,Medium,Kuttamassery,4,7:50,470,3.2,7:53
+2026-09-10,Thu,Rain,Medium,Marampilly,5,7:55,475,3.6,7:59
+2026-09-10,Thu,Rain,Medium,Manjappetty,6,8:00,480,4.0,8:04
+2026-09-10,Thu,Rain,Medium,Mudikkal,7,8:10,490,3.8,8:14
+2026-09-10,Thu,Rain,Medium,Perumbavoor,8,8:20,500,5.5,8:25
+2026-09-10,Thu,Rain,Medium,Pulluvazhy,9,8:30,510,6.1,8:36
+2026-09-10,Thu,Rain,Medium,Payipra,10,8:35,515,7.5,8:42
+2026-09-10,Thu,Rain,Medium,Ilahia Arts College,11,8:40,520,7.9,8:48
+2026-09-10,Thu,Rain,Medium,ICET,12,8:45,525,9.2,8:54
+2026-09-11,Fri,Clear,High,Vidhya Niketan School Ground,1,7:30,450,0.4,7:30
+2026-09-11,Fri,Clear,High,Pump Jn,2,7:35,455,1.1,7:36
+2026-09-11,Fri,Clear,High,Thottumugham,3,7:40,460,2.8,7:43
+2026-09-11,Fri,Clear,High,Kuttamassery,4,7:50,470,2.7,7:53
+2026-09-11,Fri,Clear,High,Marampilly,5,7:55,475,2.2,7:57
+2026-09-11,Fri,Clear,High,Manjappetty,6,8:00,480,2.5,8:02
+2026-09-11,Fri,Clear,High,Mudikkal,7,8:10,490,3.8,8:14
+2026-09-11,Fri,Clear,High,Perumbavoor,8,8:20,500,5.6,8:26
+2026-09-11,Fri,Clear,High,Pulluvazhy,9,8:30,510,6.7,8:37
+2026-09-11,Fri,Clear,High,Payipra,10,8:35,515,7.9,8:43
+2026-09-11,Fri,Clear,High,Ilahia Arts College,11,8:40,520,9.2,8:49
+2026-09-11,Fri,Clear,High,ICET,12,8:45,525,10.0,8:55
+2026-09-12,Sat,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,-0.1,7:30
+2026-09-12,Sat,Clear,Low,Pump Jn,2,7:35,455,0.5,7:35
+2026-09-12,Sat,Clear,Low,Thottumugham,3,7:40,460,0.6,7:41
+2026-09-12,Sat,Clear,Low,Kuttamassery,4,7:50,470,0.8,7:51
+2026-09-12,Sat,Clear,Low,Marampilly,5,7:55,475,1.8,7:57
+2026-09-12,Sat,Clear,Low,Manjappetty,6,8:00,480,0.5,8:00
+2026-09-12,Sat,Clear,Low,Mudikkal,7,8:10,490,-0.2,8:10
+2026-09-12,Sat,Clear,Low,Perumbavoor,8,8:20,500,1.6,8:22
+2026-09-12,Sat,Clear,Low,Pulluvazhy,9,8:30,510,1.7,8:32
+2026-09-12,Sat,Clear,Low,Payipra,10,8:35,515,0.9,8:36
+2026-09-12,Sat,Clear,Low,Ilahia Arts College,11,8:40,520,0.4,8:40
+2026-09-12,Sat,Clear,Low,ICET,12,8:45,525,-0.0,8:45
+2026-09-14,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.1,7:30
+2026-09-14,Mon,Clear,Medium,Pump Jn,2,7:35,455,0.3,7:35
+2026-09-14,Mon,Clear,Medium,Thottumugham,3,7:40,460,0.1,7:40
+2026-09-14,Mon,Clear,Medium,Kuttamassery,4,7:50,470,-0.2,7:50
+2026-09-14,Mon,Clear,Medium,Marampilly,5,7:55,475,0.2,7:55
+2026-09-14,Mon,Clear,Medium,Manjappetty,6,8:00,480,0.1,8:00
+2026-09-14,Mon,Clear,Medium,Mudikkal,7,8:10,490,0.9,8:11
+2026-09-14,Mon,Clear,Medium,Perumbavoor,8,8:20,500,1.6,8:22
+2026-09-14,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,2.5,8:33
+2026-09-14,Mon,Clear,Medium,Payipra,10,8:35,515,3.2,8:38
+2026-09-14,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,3.9,8:44
+2026-09-14,Mon,Clear,Medium,ICET,12,8:45,525,3.6,8:49
+2026-09-15,Tue,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-09-15,Tue,Clear,Medium,Pump Jn,2,7:35,455,1.5,7:37
+2026-09-15,Tue,Clear,Medium,Thottumugham,3,7:40,460,1.1,7:41
+2026-09-15,Tue,Clear,Medium,Kuttamassery,4,7:50,470,1.6,7:52
+2026-09-15,Tue,Clear,Medium,Marampilly,5,7:55,475,2.2,7:57
+2026-09-15,Tue,Clear,Medium,Manjappetty,6,8:00,480,2.9,8:03
+2026-09-15,Tue,Clear,Medium,Mudikkal,7,8:10,490,3.6,8:14
+2026-09-15,Tue,Clear,Medium,Perumbavoor,8,8:20,500,6.1,8:26
+2026-09-15,Tue,Clear,Medium,Pulluvazhy,9,8:30,510,6.7,8:37
+2026-09-15,Tue,Clear,Medium,Payipra,10,8:35,515,7.5,8:43
+2026-09-15,Tue,Clear,Medium,Ilahia Arts College,11,8:40,520,9.0,8:49
+2026-09-15,Tue,Clear,Medium,ICET,12,8:45,525,10.6,8:56
+2026-09-16,Wed,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,2.0,7:32
+2026-09-16,Wed,Rain,Medium,Pump Jn,2,7:35,455,1.9,7:37
+2026-09-16,Wed,Rain,Medium,Thottumugham,3,7:40,460,1.6,7:42
+2026-09-16,Wed,Rain,Medium,Kuttamassery,4,7:50,470,2.4,7:52
+2026-09-16,Wed,Rain,Medium,Marampilly,5,7:55,475,3.1,7:58
+2026-09-16,Wed,Rain,Medium,Manjappetty,6,8:00,480,3.6,8:04
+2026-09-16,Wed,Rain,Medium,Mudikkal,7,8:10,490,4.3,8:14
+2026-09-16,Wed,Rain,Medium,Perumbavoor,8,8:20,500,5.7,8:26
+2026-09-16,Wed,Rain,Medium,Pulluvazhy,9,8:30,510,6.2,8:36
+2026-09-16,Wed,Rain,Medium,Payipra,10,8:35,515,8.1,8:43
+2026-09-16,Wed,Rain,Medium,Ilahia Arts College,11,8:40,520,8.8,8:49
+2026-09-16,Wed,Rain,Medium,ICET,12,8:45,525,9.9,8:55
+2026-09-17,Thu,Rain,High,Vidhya Niketan School Ground,1,7:30,450,-0.2,7:30
+2026-09-17,Thu,Rain,High,Pump Jn,2,7:35,455,-1.1,7:34
+2026-09-17,Thu,Rain,High,Thottumugham,3,7:40,460,-1.1,7:39
+2026-09-17,Thu,Rain,High,Kuttamassery,4,7:50,470,-0.7,7:49
+2026-09-17,Thu,Rain,High,Marampilly,5,7:55,475,-1.3,7:54
+2026-09-17,Thu,Rain,High,Manjappetty,6,8:00,480,-1.3,7:59
+2026-09-17,Thu,Rain,High,Mudikkal,7,8:10,490,1.0,8:11
+2026-09-17,Thu,Rain,High,Perumbavoor,8,8:20,500,6.5,8:26
+2026-09-17,Thu,Rain,High,Pulluvazhy,9,8:30,510,8.2,8:38
+2026-09-17,Thu,Rain,High,Payipra,10,8:35,515,9.5,8:44
+2026-09-17,Thu,Rain,High,Ilahia Arts College,11,8:40,520,9.7,8:50
+2026-09-17,Thu,Rain,High,ICET,12,8:45,525,10.7,8:56
+2026-09-18,Fri,Clear,High,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-09-18,Fri,Clear,High,Pump Jn,2,7:35,455,2.1,7:37
+2026-09-18,Fri,Clear,High,Thottumugham,3,7:40,460,2.4,7:42
+2026-09-18,Fri,Clear,High,Kuttamassery,4,7:50,470,3.0,7:53
+2026-09-18,Fri,Clear,High,Marampilly,5,7:55,475,3.0,7:58
+2026-09-18,Fri,Clear,High,Manjappetty,6,8:00,480,3.7,8:04
+2026-09-18,Fri,Clear,High,Mudikkal,7,8:10,490,5.2,8:15
+2026-09-18,Fri,Clear,High,Perumbavoor,8,8:20,500,6.4,8:26
+2026-09-18,Fri,Clear,High,Pulluvazhy,9,8:30,510,8.0,8:38
+2026-09-18,Fri,Clear,High,Payipra,10,8:35,515,9.1,8:44
+2026-09-18,Fri,Clear,High,Ilahia Arts College,11,8:40,520,10.7,8:51
+2026-09-18,Fri,Clear,High,ICET,12,8:45,525,12.1,8:57
+2026-09-19,Sat,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.0,7:30
+2026-09-19,Sat,Clear,Medium,Pump Jn,2,7:35,455,0.9,7:36
+2026-09-19,Sat,Clear,Medium,Thottumugham,3,7:40,460,1.2,7:41
+2026-09-19,Sat,Clear,Medium,Kuttamassery,4,7:50,470,1.4,7:51
+2026-09-19,Sat,Clear,Medium,Marampilly,5,7:55,475,0.6,7:56
+2026-09-19,Sat,Clear,Medium,Manjappetty,6,8:00,480,0.8,8:01
+2026-09-19,Sat,Clear,Medium,Mudikkal,7,8:10,490,0.4,8:10
+2026-09-19,Sat,Clear,Medium,Perumbavoor,8,8:20,500,2.6,8:23
+2026-09-19,Sat,Clear,Medium,Pulluvazhy,9,8:30,510,2.7,8:33
+2026-09-19,Sat,Clear,Medium,Payipra,10,8:35,515,3.1,8:38
+2026-09-19,Sat,Clear,Medium,Ilahia Arts College,11,8:40,520,2.9,8:43
+2026-09-19,Sat,Clear,Medium,ICET,12,8:45,525,2.8,8:48
+2026-09-21,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,2.2,7:32
+2026-09-21,Mon,Clear,Medium,Pump Jn,2,7:35,455,2.4,7:37
+2026-09-21,Mon,Clear,Medium,Thottumugham,3,7:40,460,3.4,7:43
+2026-09-21,Mon,Clear,Medium,Kuttamassery,4,7:50,470,4.4,7:54
+2026-09-21,Mon,Clear,Medium,Marampilly,5,7:55,475,5.3,8:00
+2026-09-21,Mon,Clear,Medium,Manjappetty,6,8:00,480,5.5,8:06
+2026-09-21,Mon,Clear,Medium,Mudikkal,7,8:10,490,6.4,8:16
+2026-09-21,Mon,Clear,Medium,Perumbavoor,8,8:20,500,8.2,8:28
+2026-09-21,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,9.5,8:39
+2026-09-21,Mon,Clear,Medium,Payipra,10,8:35,515,10.3,8:45
+2026-09-21,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,11.1,8:51
+2026-09-21,Mon,Clear,Medium,ICET,12,8:45,525,12.5,8:58
+2026-09-22,Tue,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-09-22,Tue,Clear,Medium,Pump Jn,2,7:35,455,0.9,7:36
+2026-09-22,Tue,Clear,Medium,Thottumugham,3,7:40,460,1.3,7:41
+2026-09-22,Tue,Clear,Medium,Kuttamassery,4,7:50,470,1.7,7:52
+2026-09-22,Tue,Clear,Medium,Marampilly,5,7:55,475,3.0,7:58
+2026-09-22,Tue,Clear,Medium,Manjappetty,6,8:00,480,3.6,8:04
+2026-09-22,Tue,Clear,Medium,Mudikkal,7,8:10,490,4.2,8:14
+2026-09-22,Tue,Clear,Medium,Perumbavoor,8,8:20,500,9.3,8:29
+2026-09-22,Tue,Clear,Medium,Pulluvazhy,9,8:30,510,8.8,8:39
+2026-09-22,Tue,Clear,Medium,Payipra,10,8:35,515,9.7,8:45
+2026-09-22,Tue,Clear,Medium,Ilahia Arts College,11,8:40,520,10.1,8:50
+2026-09-22,Tue,Clear,Medium,ICET,12,8:45,525,10.6,8:56
+2026-09-23,Wed,Clear,High,Vidhya Niketan School Ground,1,7:30,450,2.5,7:33
+2026-09-23,Wed,Clear,High,Pump Jn,2,7:35,455,3.6,7:39
+2026-09-23,Wed,Clear,High,Thottumugham,3,7:40,460,4.3,7:44
+2026-09-23,Wed,Clear,High,Kuttamassery,4,7:50,470,5.2,7:55
+2026-09-23,Wed,Clear,High,Marampilly,5,7:55,475,5.6,8:01
+2026-09-23,Wed,Clear,High,Manjappetty,6,8:00,480,4.9,8:05
+2026-09-23,Wed,Clear,High,Mudikkal,7,8:10,490,6.3,8:16
+2026-09-23,Wed,Clear,High,Perumbavoor,8,8:20,500,21.1,8:41
+2026-09-23,Wed,Clear,High,Pulluvazhy,9,8:30,510,21.9,8:52
+2026-09-23,Wed,Clear,High,Payipra,10,8:35,515,21.8,8:57
+2026-09-23,Wed,Clear,High,Ilahia Arts College,11,8:40,520,21.8,9:02
+2026-09-23,Wed,Clear,High,ICET,12,8:45,525,22.4,9:07
+2026-09-24,Thu,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-09-24,Thu,Clear,Low,Pump Jn,2,7:35,455,1.7,7:37
+2026-09-24,Thu,Clear,Low,Thottumugham,3,7:40,460,1.7,7:42
+2026-09-24,Thu,Clear,Low,Kuttamassery,4,7:50,470,0.5,7:51
+2026-09-24,Thu,Clear,Low,Marampilly,5,7:55,475,0.1,7:55
+2026-09-24,Thu,Clear,Low,Manjappetty,6,8:00,480,1.0,8:01
+2026-09-24,Thu,Clear,Low,Mudikkal,7,8:10,490,-0.4,8:10
+2026-09-24,Thu,Clear,Low,Perumbavoor,8,8:20,500,-0.1,8:20
+2026-09-24,Thu,Clear,Low,Pulluvazhy,9,8:30,510,0.7,8:31
+2026-09-24,Thu,Clear,Low,Payipra,10,8:35,515,0.4,8:35
+2026-09-24,Thu,Clear,Low,Ilahia Arts College,11,8:40,520,0.8,8:41
+2026-09-24,Thu,Clear,Low,ICET,12,8:45,525,1.3,8:46
+2026-09-25,Fri,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-09-25,Fri,Clear,Low,Pump Jn,2,7:35,455,0.2,7:35
+2026-09-25,Fri,Clear,Low,Thottumugham,3,7:40,460,1.0,7:41
+2026-09-25,Fri,Clear,Low,Kuttamassery,4,7:50,470,0.9,7:51
+2026-09-25,Fri,Clear,Low,Marampilly,5,7:55,475,0.7,7:56
+2026-09-25,Fri,Clear,Low,Manjappetty,6,8:00,480,0.9,8:01
+2026-09-25,Fri,Clear,Low,Mudikkal,7,8:10,490,0.3,8:10
+2026-09-25,Fri,Clear,Low,Perumbavoor,8,8:20,500,0.9,8:21
+2026-09-25,Fri,Clear,Low,Pulluvazhy,9,8:30,510,1.4,8:31
+2026-09-25,Fri,Clear,Low,Payipra,10,8:35,515,0.6,8:36
+2026-09-25,Fri,Clear,Low,Ilahia Arts College,11,8:40,520,0.7,8:41
+2026-09-25,Fri,Clear,Low,ICET,12,8:45,525,1.3,8:46
+2026-09-26,Sat,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,1.4,7:31
+2026-09-26,Sat,Clear,Low,Pump Jn,2,7:35,455,1.6,7:37
+2026-09-26,Sat,Clear,Low,Thottumugham,3,7:40,460,2.0,7:42
+2026-09-26,Sat,Clear,Low,Kuttamassery,4,7:50,470,3.3,7:53
+2026-09-26,Sat,Clear,Low,Marampilly,5,7:55,475,3.7,7:59
+2026-09-26,Sat,Clear,Low,Manjappetty,6,8:00,480,4.2,8:04
+2026-09-26,Sat,Clear,Low,Mudikkal,7,8:10,490,6.0,8:16
+2026-09-26,Sat,Clear,Low,Perumbavoor,8,8:20,500,6.7,8:27
+2026-09-26,Sat,Clear,Low,Pulluvazhy,9,8:30,510,7.1,8:37
+2026-09-26,Sat,Clear,Low,Payipra,10,8:35,515,7.5,8:42
+2026-09-26,Sat,Clear,Low,Ilahia Arts College,11,8:40,520,7.3,8:47
+2026-09-26,Sat,Clear,Low,ICET,12,8:45,525,6.8,8:52
+2026-09-28,Mon,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,-0.2,7:30
+2026-09-28,Mon,Clear,Low,Pump Jn,2,7:35,455,0.5,7:35
+2026-09-28,Mon,Clear,Low,Thottumugham,3,7:40,460,0.6,7:41
+2026-09-28,Mon,Clear,Low,Kuttamassery,4,7:50,470,0.8,7:51
+2026-09-28,Mon,Clear,Low,Marampilly,5,7:55,475,1.3,7:56
+2026-09-28,Mon,Clear,Low,Manjappetty,6,8:00,480,0.7,8:01
+2026-09-28,Mon,Clear,Low,Mudikkal,7,8:10,490,1.3,8:11
+2026-09-28,Mon,Clear,Low,Perumbavoor,8,8:20,500,3.1,8:23
+2026-09-28,Mon,Clear,Low,Pulluvazhy,9,8:30,510,3.2,8:33
+2026-09-28,Mon,Clear,Low,Payipra,10,8:35,515,3.1,8:38
+2026-09-28,Mon,Clear,Low,Ilahia Arts College,11,8:40,520,3.0,8:43
+2026-09-28,Mon,Clear,Low,ICET,12,8:45,525,3.0,8:48
+2026-09-29,Tue,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,-1.2,7:29
+2026-09-29,Tue,Clear,Low,Pump Jn,2,7:35,455,-0.6,7:34
+2026-09-29,Tue,Clear,Low,Thottumugham,3,7:40,460,-0.6,7:39
+2026-09-29,Tue,Clear,Low,Kuttamassery,4,7:50,470,-0.1,7:50
+2026-09-29,Tue,Clear,Low,Marampilly,5,7:55,475,-0.6,7:54
+2026-09-29,Tue,Clear,Low,Manjappetty,6,8:00,480,0.3,8:00
+2026-09-29,Tue,Clear,Low,Mudikkal,7,8:10,490,1.4,8:11
+2026-09-29,Tue,Clear,Low,Perumbavoor,8,8:20,500,3.9,8:24
+2026-09-29,Tue,Clear,Low,Pulluvazhy,9,8:30,510,4.7,8:35
+2026-09-29,Tue,Clear,Low,Payipra,10,8:35,515,5.1,8:40
+2026-09-29,Tue,Clear,Low,Ilahia Arts College,11,8:40,520,4.3,8:44
+2026-09-29,Tue,Clear,Low,ICET,12,8:45,525,4.5,8:49
+2026-09-30,Wed,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-09-30,Wed,Clear,Medium,Pump Jn,2,7:35,455,1.2,7:36
+2026-09-30,Wed,Clear,Medium,Thottumugham,3,7:40,460,2.5,7:42
+2026-09-30,Wed,Clear,Medium,Kuttamassery,4,7:50,470,4.0,7:54
+2026-09-30,Wed,Clear,Medium,Marampilly,5,7:55,475,2.6,7:58
+2026-09-30,Wed,Clear,Medium,Manjappetty,6,8:00,480,2.8,8:03
+2026-09-30,Wed,Clear,Medium,Mudikkal,7,8:10,490,3.5,8:13
+2026-09-30,Wed,Clear,Medium,Perumbavoor,8,8:20,500,4.9,8:25
+2026-09-30,Wed,Clear,Medium,Pulluvazhy,9,8:30,510,6.4,8:36
+2026-09-30,Wed,Clear,Medium,Payipra,10,8:35,515,6.1,8:41
+2026-09-30,Wed,Clear,Medium,Ilahia Arts College,11,8:40,520,6.7,8:47
+2026-09-30,Wed,Clear,Medium,ICET,12,8:45,525,6.5,8:51
+2026-10-01,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.0,7:30
+2026-10-01,Thu,Clear,Medium,Pump Jn,2,7:35,455,0.6,7:36
+2026-10-01,Thu,Clear,Medium,Thottumugham,3,7:40,460,-0.1,7:40
+2026-10-01,Thu,Clear,Medium,Kuttamassery,4,7:50,470,1.7,7:52
+2026-10-01,Thu,Clear,Medium,Marampilly,5,7:55,475,2.5,7:57
+2026-10-01,Thu,Clear,Medium,Manjappetty,6,8:00,480,2.7,8:03
+2026-10-01,Thu,Clear,Medium,Mudikkal,7,8:10,490,3.8,8:14
+2026-10-01,Thu,Clear,Medium,Perumbavoor,8,8:20,500,4.4,8:24
+2026-10-01,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,5.0,8:35
+2026-10-01,Thu,Clear,Medium,Payipra,10,8:35,515,5.2,8:40
+2026-10-01,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,5.3,8:45
+2026-10-01,Thu,Clear,Medium,ICET,12,8:45,525,5.3,8:50
+2026-10-02,Fri,Clear,High,Vidhya Niketan School Ground,1,7:30,450,1.2,7:31
+2026-10-02,Fri,Clear,High,Pump Jn,2,7:35,455,1.8,7:37
+2026-10-02,Fri,Clear,High,Thottumugham,3,7:40,460,2.8,7:43
+2026-10-02,Fri,Clear,High,Kuttamassery,4,7:50,470,3.8,7:54
+2026-10-02,Fri,Clear,High,Marampilly,5,7:55,475,5.8,8:01
+2026-10-02,Fri,Clear,High,Manjappetty,6,8:00,480,5.6,8:06
+2026-10-02,Fri,Clear,High,Mudikkal,7,8:10,490,7.6,8:18
+2026-10-02,Fri,Clear,High,Perumbavoor,8,8:20,500,10.7,8:31
+2026-10-02,Fri,Clear,High,Pulluvazhy,9,8:30,510,13.3,8:43
+2026-10-02,Fri,Clear,High,Payipra,10,8:35,515,14.6,8:50
+2026-10-02,Fri,Clear,High,Ilahia Arts College,11,8:40,520,15.8,8:56
+2026-10-02,Fri,Clear,High,ICET,12,8:45,525,16.5,9:01
+2026-10-03,Sat,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.9,7:31
+2026-10-03,Sat,Clear,Medium,Pump Jn,2,7:35,455,2.0,7:37
+2026-10-03,Sat,Clear,Medium,Thottumugham,3,7:40,460,2.4,7:42
+2026-10-03,Sat,Clear,Medium,Kuttamassery,4,7:50,470,2.3,7:52
+2026-10-03,Sat,Clear,Medium,Marampilly,5,7:55,475,3.1,7:58
+2026-10-03,Sat,Clear,Medium,Manjappetty,6,8:00,480,3.9,8:04
+2026-10-03,Sat,Clear,Medium,Mudikkal,7,8:10,490,4.8,8:15
+2026-10-03,Sat,Clear,Medium,Perumbavoor,8,8:20,500,11.3,8:31
+2026-10-03,Sat,Clear,Medium,Pulluvazhy,9,8:30,510,11.2,8:41
+2026-10-03,Sat,Clear,Medium,Payipra,10,8:35,515,11.0,8:46
+2026-10-03,Sat,Clear,Medium,Ilahia Arts College,11,8:40,520,10.3,8:50
+2026-10-03,Sat,Clear,Medium,ICET,12,8:45,525,10.7,8:56
+2026-10-05,Mon,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-2.0,7:28
+2026-10-05,Mon,Clear,Medium,Pump Jn,2,7:35,455,-2.0,7:33
+2026-10-05,Mon,Clear,Medium,Thottumugham,3,7:40,460,-0.9,7:39
+2026-10-05,Mon,Clear,Medium,Kuttamassery,4,7:50,470,-0.4,7:50
+2026-10-05,Mon,Clear,Medium,Marampilly,5,7:55,475,0.3,7:55
+2026-10-05,Mon,Clear,Medium,Manjappetty,6,8:00,480,-0.1,7:00
+2026-10-05,Mon,Clear,Medium,Mudikkal,7,8:10,490,1.7,8:12
+2026-10-05,Mon,Clear,Medium,Perumbavoor,8,8:20,500,2.6,8:23
+2026-10-05,Mon,Clear,Medium,Pulluvazhy,9,8:30,510,4.9,8:35
+2026-10-05,Mon,Clear,Medium,Payipra,10,8:35,515,6.2,8:41
+2026-10-05,Mon,Clear,Medium,Ilahia Arts College,11,8:40,520,6.5,8:46
+2026-10-05,Mon,Clear,Medium,ICET,12,8:45,525,6.6,8:52
+2026-10-06,Tue,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.4,7:30
+2026-10-06,Tue,Rain,High,Pump Jn,2,7:35,455,0.9,7:36
+2026-10-06,Tue,Rain,High,Thottumugham,3,7:40,460,2.5,7:43
+2026-10-06,Tue,Rain,High,Kuttamassery,4,7:50,470,4.0,7:54
+2026-10-06,Tue,Rain,High,Marampilly,5,7:55,475,6.1,8:01
+2026-10-06,Tue,Rain,High,Manjappetty,6,8:00,480,6.9,8:07
+2026-10-06,Tue,Rain,High,Mudikkal,7,8:10,490,9.5,8:19
+2026-10-06,Tue,Rain,High,Perumbavoor,8,8:20,500,13.2,8:33
+2026-10-06,Tue,Rain,High,Pulluvazhy,9,8:30,510,14.3,8:44
+2026-10-06,Tue,Rain,High,Payipra,10,8:35,515,14.5,8:50
+2026-10-06,Tue,Rain,High,Ilahia Arts College,11,8:40,520,15.6,8:56
+2026-10-06,Tue,Rain,High,ICET,12,8:45,525,16.9,9:02
+2026-10-07,Wed,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-0.9,7:29
+2026-10-07,Wed,Clear,Medium,Pump Jn,2,7:35,455,-1.3,7:34
+2026-10-07,Wed,Clear,Medium,Thottumugham,3,7:40,460,-2.0,7:38
+2026-10-07,Wed,Clear,Medium,Kuttamassery,4,7:50,470,-1.2,7:49
+2026-10-07,Wed,Clear,Medium,Marampilly,5,7:55,475,-0.1,7:55
+2026-10-07,Wed,Clear,Medium,Manjappetty,6,8:00,480,0.2,8:00
+2026-10-07,Wed,Clear,Medium,Mudikkal,7,8:10,490,-0.4,8:10
+2026-10-07,Wed,Clear,Medium,Perumbavoor,8,8:20,500,1.9,8:22
+2026-10-07,Wed,Clear,Medium,Pulluvazhy,9,8:30,510,3.9,8:34
+2026-10-07,Wed,Clear,Medium,Payipra,10,8:35,515,3.4,8:38
+2026-10-07,Wed,Clear,Medium,Ilahia Arts College,11,8:40,520,3.6,8:44
+2026-10-07,Wed,Clear,Medium,ICET,12,8:45,525,5.0,8:50
+2026-10-08,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,0.6,7:31
+2026-10-08,Thu,Clear,Medium,Pump Jn,2,7:35,455,1.2,7:36
+2026-10-08,Thu,Clear,Medium,Thottumugham,3,7:40,460,2.0,7:42
+2026-10-08,Thu,Clear,Medium,Kuttamassery,4,7:50,470,2.3,7:52
+2026-10-08,Thu,Clear,Medium,Marampilly,5,7:55,475,3.2,7:58
+2026-10-08,Thu,Clear,Medium,Manjappetty,6,8:00,480,2.7,8:03
+2026-10-08,Thu,Clear,Medium,Mudikkal,7,8:10,490,3.7,8:14
+2026-10-08,Thu,Clear,Medium,Perumbavoor,8,8:20,500,5.3,8:25
+2026-10-08,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,6.0,8:36
+2026-10-08,Thu,Clear,Medium,Payipra,10,8:35,515,6.0,8:41
+2026-10-08,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,5.7,8:46
+2026-10-08,Thu,Clear,Medium,ICET,12,8:45,525,5.9,8:51
+2026-10-09,Fri,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-0.7,7:29
+2026-10-09,Fri,Clear,High,Pump Jn,2,7:35,455,0.4,7:35
+2026-10-09,Fri,Clear,High,Thottumugham,3,7:40,460,0.4,7:40
+2026-10-09,Fri,Clear,High,Kuttamassery,4,7:50,470,1.4,7:51
+2026-10-09,Fri,Clear,High,Marampilly,5,7:55,475,1.7,7:57
+2026-10-09,Fri,Clear,High,Manjappetty,6,8:00,480,3.1,8:03
+2026-10-09,Fri,Clear,High,Mudikkal,7,8:10,490,4.6,8:15
+2026-10-09,Fri,Clear,High,Perumbavoor,8,8:20,500,6.4,8:26
+2026-10-09,Fri,Clear,High,Pulluvazhy,9,8:30,510,6.4,8:36
+2026-10-09,Fri,Clear,High,Payipra,10,8:35,515,7.1,8:42
+2026-10-09,Fri,Clear,High,Ilahia Arts College,11,8:40,520,8.9,8:49
+2026-10-09,Fri,Clear,High,ICET,12,8:45,525,9.7,8:55
+2026-10-10,Sat,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,1.4,7:31
+2026-10-10,Sat,Rain,Medium,Pump Jn,2,7:35,455,0.6,7:36
+2026-10-10,Sat,Rain,Medium,Thottumugham,3,7:40,460,-0.1,7:40
+2026-10-10,Sat,Rain,Medium,Kuttamassery,4,7:50,470,0.8,7:51
+2026-10-10,Sat,Rain,Medium,Marampilly,5,7:55,475,0.7,7:56
+2026-10-10,Sat,Rain,Medium,Manjappetty,6,8:00,480,1.9,8:02
+2026-10-10,Sat,Rain,Medium,Mudikkal,7,8:10,490,2.4,8:12
+2026-10-10,Sat,Rain,Medium,Perumbavoor,8,8:20,500,5.6,8:26
+2026-10-10,Sat,Rain,Medium,Pulluvazhy,9,8:30,510,6.2,8:36
+2026-10-10,Sat,Rain,Medium,Payipra,10,8:35,515,6.3,8:41
+2026-10-10,Sat,Rain,Medium,Ilahia Arts College,11,8:40,520,7.3,8:47
+2026-10-10,Sat,Rain,Medium,ICET,12,8:45,525,8.4,8:53
+2026-10-12,Mon,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,1.1,7:31
+2026-10-12,Mon,Rain,Medium,Pump Jn,2,7:35,455,2.1,7:37
+2026-10-12,Mon,Rain,Medium,Thottumugham,3,7:40,460,2.9,7:43
+2026-10-12,Mon,Rain,Medium,Kuttamassery,4,7:50,470,4.7,7:55
+2026-10-12,Mon,Rain,Medium,Marampilly,5,7:55,475,4.7,7:00
+2026-10-12,Mon,Rain,Medium,Manjappetty,6,8:00,480,6.5,8:07
+2026-10-12,Mon,Rain,Medium,Mudikkal,7,8:10,490,7.2,8:17
+2026-10-12,Mon,Rain,Medium,Perumbavoor,8,8:20,500,16.3,8:36
+2026-10-12,Mon,Rain,Medium,Pulluvazhy,9,8:30,510,17.0,8:47
+2026-10-12,Mon,Rain,Medium,Payipra,10,8:35,515,18.6,8:54
+2026-10-12,Mon,Rain,Medium,Ilahia Arts College,11,8:40,520,19.1,8:59
+2026-10-12,Mon,Rain,Medium,ICET,12,8:45,525,20.2,9:05
+2026-10-13,Tue,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,1.9,7:32
+2026-10-13,Tue,Clear,Low,Pump Jn,2,7:35,455,1.9,7:37
+2026-10-13,Tue,Clear,Low,Thottumugham,3,7:40,460,1.0,7:41
+2026-10-13,Tue,Clear,Low,Kuttamassery,4,7:50,470,0.8,7:51
+2026-10-13,Tue,Clear,Low,Marampilly,5,7:55,475,1.3,7:56
+2026-10-13,Tue,Clear,Low,Manjappetty,6,8:00,480,1.6,8:02
+2026-10-13,Tue,Clear,Low,Mudikkal,7,8:10,490,1.0,8:11
+2026-10-13,Tue,Clear,Low,Perumbavoor,8,8:20,500,3.8,8:24
+2026-10-13,Tue,Clear,Low,Pulluvazhy,9,8:30,510,3.9,8:34
+2026-10-13,Tue,Clear,Low,Payipra,10,8:35,515,3.2,8:38
+2026-10-13,Tue,Clear,Low,Ilahia Arts College,11,8:40,520,3.0,8:43
+2026-10-13,Tue,Clear,Low,ICET,12,8:45,525,2.7,8:48
+2026-10-14,Wed,Rain,High,Vidhya Niketan School Ground,1,7:30,450,0.4,7:30
+2026-10-14,Wed,Rain,High,Pump Jn,2,7:35,455,0.9,7:36
+2026-10-14,Wed,Rain,High,Thottumugham,3,7:40,460,1.7,7:42
+2026-10-14,Wed,Rain,High,Kuttamassery,4,7:50,470,2.7,7:53
+2026-10-14,Wed,Rain,High,Marampilly,5,7:55,475,2.8,7:58
+2026-10-14,Wed,Rain,High,Manjappetty,6,8:00,480,3.0,8:03
+2026-10-14,Wed,Rain,High,Mudikkal,7,8:10,490,4.1,8:14
+2026-10-14,Wed,Rain,High,Perumbavoor,8,8:20,500,6.0,8:26
+2026-10-14,Wed,Rain,High,Pulluvazhy,9,8:30,510,8.0,8:38
+2026-10-14,Wed,Rain,High,Payipra,10,8:35,515,7.8,8:43
+2026-10-14,Wed,Rain,High,Ilahia Arts College,11,8:40,520,8.6,8:49
+2026-10-14,Wed,Rain,High,ICET,12,8:45,525,9.2,8:54
+2026-10-15,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,-1.0,7:29
+2026-10-15,Thu,Clear,Medium,Pump Jn,2,7:35,455,-1.3,7:34
+2026-10-15,Thu,Clear,Medium,Thottumugham,3,7:40,460,-0.9,7:39
+2026-10-15,Thu,Clear,Medium,Kuttamassery,4,7:50,470,0.4,7:50
+2026-10-15,Thu,Clear,Medium,Marampilly,5,7:55,475,-0.5,7:54
+2026-10-15,Thu,Clear,Medium,Manjappetty,6,8:00,480,0.1,8:00
+2026-10-15,Thu,Clear,Medium,Mudikkal,7,8:10,490,1.5,8:12
+2026-10-15,Thu,Clear,Medium,Perumbavoor,8,8:20,500,2.5,8:23
+2026-10-15,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,2.8,8:33
+2026-10-15,Thu,Clear,Medium,Payipra,10,8:35,515,3.1,8:38
+2026-10-15,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,2.5,8:43
+2026-10-15,Thu,Clear,Medium,ICET,12,8:45,525,1.5,8:47
+2026-10-16,Fri,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.0,7:30
+2026-10-16,Fri,Rain,Low,Pump Jn,2,7:35,455,-0.5,7:35
+2026-10-16,Fri,Rain,Low,Thottumugham,3,7:40,460,-1.0,7:39
+2026-10-16,Fri,Rain,Low,Kuttamassery,4,7:50,470,-0.4,7:50
+2026-10-16,Fri,Rain,Low,Marampilly,5,7:55,475,-0.5,7:54
+2026-10-16,Fri,Rain,Low,Manjappetty,6,8:00,480,0.0,8:00
+2026-10-16,Fri,Rain,Low,Mudikkal,7,8:10,490,1.0,8:11
+2026-10-16,Fri,Rain,Low,Perumbavoor,8,8:20,500,2.6,8:23
+2026-10-16,Fri,Rain,Low,Pulluvazhy,9,8:30,510,3.3,8:33
+2026-10-16,Fri,Rain,Low,Payipra,10,8:35,515,4.3,8:39
+2026-10-16,Fri,Rain,Low,Ilahia Arts College,11,8:40,520,5.4,8:45
+2026-10-16,Fri,Rain,Low,ICET,12,8:45,525,4.8,8:50
+2026-10-17,Sat,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,1.0,7:31
+2026-10-17,Sat,Rain,Medium,Pump Jn,2,7:35,455,1.5,7:36
+2026-10-17,Sat,Rain,Medium,Thottumugham,3,7:40,460,1.7,7:42
+2026-10-17,Sat,Rain,Medium,Kuttamassery,4,7:50,470,2.2,7:52
+2026-10-17,Sat,Rain,Medium,Marampilly,5,7:55,475,2.8,7:58
+2026-10-17,Sat,Rain,Medium,Manjappetty,6,8:00,480,3.0,8:03
+2026-10-17,Sat,Rain,Medium,Mudikkal,7,8:10,490,3.7,8:14
+2026-10-17,Sat,Rain,Medium,Perumbavoor,8,8:20,500,6.6,8:27
+2026-10-17,Sat,Rain,Medium,Pulluvazhy,9,8:30,510,7.7,8:38
+2026-10-17,Sat,Rain,Medium,Payipra,10,8:35,515,9.8,8:45
+2026-10-17,Sat,Rain,Medium,Ilahia Arts College,11,8:40,520,9.1,8:49
+2026-10-17,Sat,Rain,Medium,ICET,12,8:45,525,9.6,8:55
+2026-10-19,Mon,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,0.5,7:31
+2026-10-19,Mon,Rain,Low,Pump Jn,2,7:35,455,1.4,7:36
+2026-10-19,Mon,Rain,Low,Thottumugham,3,7:40,460,2.4,7:42
+2026-10-19,Mon,Rain,Low,Kuttamassery,4,7:50,470,3.3,7:53
+2026-10-19,Mon,Rain,Low,Marampilly,5,7:55,475,4.3,7:59
+2026-10-19,Mon,Rain,Low,Manjappetty,6,8:00,480,3.3,8:03
+2026-10-19,Mon,Rain,Low,Mudikkal,7,8:10,490,4.9,8:15
+2026-10-19,Mon,Rain,Low,Perumbavoor,8,8:20,500,7.9,8:28
+2026-10-19,Mon,Rain,Low,Pulluvazhy,9,8:30,510,7.9,8:38
+2026-10-19,Mon,Rain,Low,Payipra,10,8:35,515,7.7,8:43
+2026-10-19,Mon,Rain,Low,Ilahia Arts College,11,8:40,520,8.2,8:48
+2026-10-19,Mon,Rain,Low,ICET,12,8:45,525,8.5,8:54
+2026-10-20,Tue,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-1.3,7:29
+2026-10-20,Tue,Clear,High,Pump Jn,2,7:35,455,-0.1,7:35
+2026-10-20,Tue,Clear,High,Thottumugham,3,7:40,460,0.5,7:41
+2026-10-20,Tue,Clear,High,Kuttamassery,4,7:50,470,1.6,7:52
+2026-10-20,Tue,Clear,High,Marampilly,5,7:55,475,1.3,7:56
+2026-10-20,Tue,Clear,High,Manjappetty,6,8:00,480,2.2,8:02
+2026-10-20,Tue,Clear,High,Mudikkal,7,8:10,490,2.0,8:12
+2026-10-20,Tue,Clear,High,Perumbavoor,8,8:20,500,4.4,8:24
+2026-10-20,Tue,Clear,High,Pulluvazhy,9,8:30,510,5.7,8:36
+2026-10-20,Tue,Clear,High,Payipra,10,8:35,515,6.2,8:41
+2026-10-20,Tue,Clear,High,Ilahia Arts College,11,8:40,520,7.5,8:47
+2026-10-20,Tue,Clear,High,ICET,12,8:45,525,8.0,8:53
+2026-10-21,Wed,Clear,High,Vidhya Niketan School Ground,1,7:30,450,1.8,7:32
+2026-10-21,Wed,Clear,High,Pump Jn,2,7:35,455,2.7,7:38
+2026-10-21,Wed,Clear,High,Thottumugham,3,7:40,460,3.1,7:43
+2026-10-21,Wed,Clear,High,Kuttamassery,4,7:50,470,4.1,7:54
+2026-10-21,Wed,Clear,High,Marampilly,5,7:55,475,3.8,7:59
+2026-10-21,Wed,Clear,High,Manjappetty,6,8:00,480,4.6,8:05
+2026-10-21,Wed,Clear,High,Mudikkal,7,8:10,490,4.8,8:15
+2026-10-21,Wed,Clear,High,Perumbavoor,8,8:20,500,10.1,8:30
+2026-10-21,Wed,Clear,High,Pulluvazhy,9,8:30,510,12.7,8:43
+2026-10-21,Wed,Clear,High,Payipra,10,8:35,515,12.7,8:48
+2026-10-21,Wed,Clear,High,Ilahia Arts College,11,8:40,520,13.2,8:53
+2026-10-21,Wed,Clear,High,ICET,12,8:45,525,14.9,8:00
+2026-10-22,Thu,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,0.7,7:31
+2026-10-22,Thu,Clear,Low,Pump Jn,2,7:35,455,0.9,7:36
+2026-10-22,Thu,Clear,Low,Thottumugham,3,7:40,460,1.2,7:41
+2026-10-22,Thu,Clear,Low,Kuttamassery,4,7:50,470,1.1,7:51
+2026-10-22,Thu,Clear,Low,Marampilly,5,7:55,475,1.2,7:56
+2026-10-22,Thu,Clear,Low,Manjappetty,6,8:00,480,0.4,8:00
+2026-10-22,Thu,Clear,Low,Mudikkal,7,8:10,490,0.7,8:11
+2026-10-22,Thu,Clear,Low,Perumbavoor,8,8:20,500,3.9,8:24
+2026-10-22,Thu,Clear,Low,Pulluvazhy,9,8:30,510,3.3,8:33
+2026-10-22,Thu,Clear,Low,Payipra,10,8:35,515,4.0,8:39
+2026-10-22,Thu,Clear,Low,Ilahia Arts College,11,8:40,520,4.4,8:44
+2026-10-22,Thu,Clear,Low,ICET,12,8:45,525,4.1,8:49
+2026-10-23,Fri,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,-0.5,7:29
+2026-10-23,Fri,Rain,Low,Pump Jn,2,7:35,455,-0.5,7:34
+2026-10-23,Fri,Rain,Low,Thottumugham,3,7:40,460,0.5,7:41
+2026-10-23,Fri,Rain,Low,Kuttamassery,4,7:50,470,0.8,7:51
+2026-10-23,Fri,Rain,Low,Marampilly,5,7:55,475,1.5,7:57
+2026-10-23,Fri,Rain,Low,Manjappetty,6,8:00,480,1.5,8:02
+2026-10-23,Fri,Rain,Low,Mudikkal,7,8:10,490,2.4,8:12
+2026-10-23,Fri,Rain,Low,Perumbavoor,8,8:20,500,5.3,8:25
+2026-10-23,Fri,Rain,Low,Pulluvazhy,9,8:30,510,5.6,8:36
+2026-10-23,Fri,Rain,Low,Payipra,10,8:35,515,5.0,8:40
+2026-10-23,Fri,Rain,Low,Ilahia Arts College,11,8:40,520,4.5,8:44
+2026-10-23,Fri,Rain,Low,ICET,12,8:45,525,4.5,8:49
+2026-10-24,Sat,Rain,Medium,Vidhya Niketan School Ground,1,7:30,450,0.0,7:30
+2026-10-24,Sat,Rain,Medium,Pump Jn,2,7:35,455,1.8,7:37
+2026-10-24,Sat,Rain,Medium,Thottumugham,3,7:40,460,1.2,7:41
+2026-10-24,Sat,Rain,Medium,Kuttamassery,4,7:50,470,2.0,7:52
+2026-10-24,Sat,Rain,Medium,Marampilly,5,7:55,475,1.7,7:57
+2026-10-24,Sat,Rain,Medium,Manjappetty,6,8:00,480,1.8,8:02
+2026-10-24,Sat,Rain,Medium,Mudikkal,7,8:10,490,2.6,8:13
+2026-10-24,Sat,Rain,Medium,Perumbavoor,8,8:20,500,2.8,8:23
+2026-10-24,Sat,Rain,Medium,Pulluvazhy,9,8:30,510,4.7,8:35
+2026-10-24,Sat,Rain,Medium,Payipra,10,8:35,515,4.8,8:40
+2026-10-24,Sat,Rain,Medium,Ilahia Arts College,11,8:40,520,5.3,8:45
+2026-10-24,Sat,Rain,Medium,ICET,12,8:45,525,6.3,8:51
+2026-10-26,Mon,Clear,High,Vidhya Niketan School Ground,1,7:30,450,-1.8,7:28
+2026-10-26,Mon,Clear,High,Pump Jn,2,7:35,455,-0.7,7:34
+2026-10-26,Mon,Clear,High,Thottumugham,3,7:40,460,-0.0,7:40
+2026-10-26,Mon,Clear,High,Kuttamassery,4,7:50,470,0.8,7:51
+2026-10-26,Mon,Clear,High,Marampilly,5,7:55,475,1.6,7:57
+2026-10-26,Mon,Clear,High,Manjappetty,6,8:00,480,2.0,8:02
+2026-10-26,Mon,Clear,High,Mudikkal,7,8:10,490,3.1,8:13
+2026-10-26,Mon,Clear,High,Perumbavoor,8,8:20,500,6.2,8:26
+2026-10-26,Mon,Clear,High,Pulluvazhy,9,8:30,510,8.2,8:38
+2026-10-26,Mon,Clear,High,Payipra,10,8:35,515,8.1,8:43
+2026-10-26,Mon,Clear,High,Ilahia Arts College,11,8:40,520,8.4,8:48
+2026-10-26,Mon,Clear,High,ICET,12,8:45,525,10.3,8:55
+2026-10-27,Tue,Rain,Low,Vidhya Niketan School Ground,1,7:30,450,-0.4,7:30
+2026-10-27,Tue,Rain,Low,Pump Jn,2,7:35,455,-0.5,7:35
+2026-10-27,Tue,Rain,Low,Thottumugham,3,7:40,460,-0.1,7:40
+2026-10-27,Tue,Rain,Low,Kuttamassery,4,7:50,470,0.5,7:51
+2026-10-27,Tue,Rain,Low,Marampilly,5,7:55,475,0.8,7:56
+2026-10-27,Tue,Rain,Low,Manjappetty,6,8:00,480,1.0,8:01
+2026-10-27,Tue,Rain,Low,Mudikkal,7,8:10,490,1.5,8:12
+2026-10-27,Tue,Rain,Low,Perumbavoor,8,8:20,500,2.6,8:23
+2026-10-27,Tue,Rain,Low,Pulluvazhy,9,8:30,510,3.7,8:34
+2026-10-27,Tue,Rain,Low,Payipra,10,8:35,515,3.2,8:38
+2026-10-27,Tue,Rain,Low,Ilahia Arts College,11,8:40,520,3.4,8:43
+2026-10-27,Tue,Rain,Low,ICET,12,8:45,525,3.2,8:48
+2026-10-28,Wed,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,2.0,7:32
+2026-10-28,Wed,Clear,Low,Pump Jn,2,7:35,455,2.4,7:37
+2026-10-28,Wed,Clear,Low,Thottumugham,3,7:40,460,1.8,7:42
+2026-10-28,Wed,Clear,Low,Kuttamassery,4,7:50,470,2.5,7:52
+2026-10-28,Wed,Clear,Low,Marampilly,5,7:55,475,2.2,7:57
+2026-10-28,Wed,Clear,Low,Manjappetty,6,8:00,480,2.0,8:02
+2026-10-28,Wed,Clear,Low,Mudikkal,7,8:10,490,2.5,8:12
+2026-10-28,Wed,Clear,Low,Perumbavoor,8,8:20,500,2.7,8:23
+2026-10-28,Wed,Clear,Low,Pulluvazhy,9,8:30,510,2.5,8:32
+2026-10-28,Wed,Clear,Low,Payipra,10,8:35,515,2.3,8:37
+2026-10-28,Wed,Clear,Low,Ilahia Arts College,11,8:40,520,2.0,8:42
+2026-10-28,Wed,Clear,Low,ICET,12,8:45,525,1.8,8:47
+2026-10-29,Thu,Clear,Medium,Vidhya Niketan School Ground,1,7:30,450,2.2,7:32
+2026-10-29,Thu,Clear,Medium,Pump Jn,2,7:35,455,3.9,7:39
+2026-10-29,Thu,Clear,Medium,Thottumugham,3,7:40,460,3.7,7:44
+2026-10-29,Thu,Clear,Medium,Kuttamassery,4,7:50,470,4.5,7:54
+2026-10-29,Thu,Clear,Medium,Marampilly,5,7:55,475,4.2,7:59
+2026-10-29,Thu,Clear,Medium,Manjappetty,6,8:00,480,4.1,8:04
+2026-10-29,Thu,Clear,Medium,Mudikkal,7,8:10,490,4.4,8:14
+2026-10-29,Thu,Clear,Medium,Perumbavoor,8,8:20,500,6.3,8:26
+2026-10-29,Thu,Clear,Medium,Pulluvazhy,9,8:30,510,7.0,8:37
+2026-10-29,Thu,Clear,Medium,Payipra,10,8:35,515,6.6,8:42
+2026-10-29,Thu,Clear,Medium,Ilahia Arts College,11,8:40,520,7.5,8:48
+2026-10-29,Thu,Clear,Medium,ICET,12,8:45,525,7.3,8:52
+2026-10-30,Fri,Clear,Low,Vidhya Niketan School Ground,1,7:30,450,0.2,7:30
+2026-10-30,Fri,Clear,Low,Pump Jn,2,7:35,455,0.1,7:35
+2026-10-30,Fri,Clear,Low,Thottumugham,3,7:40,460,0.3,7:40
+2026-10-30,Fri,Clear,Low,Kuttamassery,4,7:50,470,-0.2,7:50
+2026-10-30,Fri,Clear,Low,Marampilly,5,7:55,475,1.0,7:56
+2026-10-30,Fri,Clear,Low,Manjappetty,6,8:00,480,1.9,8:02
+2026-10-30,Fri,Clear,Low,Mudikkal,7,8:10,490,2.4,8:12
+2026-10-30,Fri,Clear,Low,Perumbavoor,8,8:20,500,2.6,8:23
+2026-10-30,Fri,Clear,Low,Pulluvazhy,9,8:30,510,2.3,8:32
+2026-10-30,Fri,Clear,Low,Payipra,10,8:35,515,3.3,8:38
+2026-10-30,Fri,Clear,Low,Ilahia Arts College,11,8:40,520,4.0,8:44
+2026-10-30,Fri,Clear,Low,ICET,12,8:45,525,4.2,8:49
+2026-10-31,Sat,Clear,High,Vidhya Niketan School Ground,1,7:30,450,1.2,7:31
+2026-10-31,Sat,Clear,High,Pump Jn,2,7:35,455,2.3,7:37
+2026-10-31,Sat,Clear,High,Thottumugham,3,7:40,460,3.4,7:43
+2026-10-31,Sat,Clear,High,Kuttamassery,4,7:50,470,3.3,7:53
+2026-10-31,Sat,Clear,High,Marampilly,5,7:55,475,3.9,7:59
+2026-10-31,Sat,Clear,High,Manjappetty,6,8:00,480,4.9,8:05
+2026-10-31,Sat,Clear,High,Mudikkal,7,8:10,490,4.8,8:15
+2026-10-31,Sat,Clear,High,Perumbavoor,8,8:20,500,7.4,8:27
+2026-10-31,Sat,Clear,High,Pulluvazhy,9,8:30,510,8.0,8:38
+2026-10-31,Sat,Clear,High,Payipra,10,8:35,515,7.3,8:42
+2026-10-31,Sat,Clear,High,Ilahia Arts College,11,8:40,520,7.6,8:48
+2026-10-31,Sat,Clear,High,ICET,12,8:45,525,7.8,8:53

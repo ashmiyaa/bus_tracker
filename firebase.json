@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "icet-bus-tracker",
+    "public": "frontend",
+    "ignore": ["firebase.json", "**/.*"]
+  }
+}

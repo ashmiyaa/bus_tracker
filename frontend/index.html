@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Where is my bus? | ICET Aluva</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"><link rel="stylesheet" href="style.css"></head><body><main>
+<h1>Where is my bus?</h1><p class="mute">ICET college bus, Aluva route</p>
+<div id="map"></div>
+<section class="card" id="card"><div class="st"><span class="dot"></span><span id="stt">Connecting...</span></div>
+<div class="big" id="where"></div><div class="mute" id="eta"></div></section>
+<h2>Route</h2><ol id="route"></ol></main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
+<script src="firebase-config.js"></script><script src="common.js"></script>
+<script>
+const map=L.map("map").setView([10.05,76.45],10);
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap"}).addTo(map);
+let bus=null,stops={},layer=L.layerGroup().addTo(map),marker=null,fitted=false;
+db.ref("stops").on("value",s=>{stops=s.val()||{};drawStops()});
+db.ref("bus").on("value",s=>{bus=s.val();render()});
+setInterval(render,15000);
+function drawStops(){layer.clearLayers();const pts=[];
+  STOPS.forEach((s,i)=>{const p=stops[i];if(!p)return;pts.push([p.lat,p.lng]);
+    L.circleMarker([p.lat,p.lng],{radius:5,color:"#0e6b4f",fillOpacity:.9}).bindTooltip(s[0]).addTo(layer)});
+  if(pts.length>1)L.polyline(pts,{color:"#0e6b4f",weight:3,opacity:.5}).addTo(layer)}
+function render(){
+  const live=bus&&bus.live&&Date.now()-bus.ts<120000;
+  $("card").className="card"+(live?" live":"");
+  if(!bus){$("stt").textContent="Bus not started yet";$("where").textContent="";$("eta").textContent="The driver has not shared a location today."}
+  else{const i=bus.stop,dl=bus.delay||0;
+    $("stt").textContent=live?"Live now":bus.live?"Signal lost":"Sharing stopped";
+    $("where").textContent=i>=STOPS.length-1?"Reached ICET":"Near "+STOPS[i][0];
+    $("eta").textContent=i>=STOPS.length-1?"":"Next: "+STOPS[i+1][0]+" about "+fmt(mn(STOPS[i+1][1])+dl)+" ("+(dl<=1?"on time":Math.round(dl)+" min late")+")";
+    if(bus.lat!=null){const ll=[bus.lat,bus.lng];
+      if(!marker)marker=L.marker(ll).addTo(map);else marker.setLatLng(ll);
+      if(!fitted){map.setView(ll,13);fitted=true}}}
+  const cur=bus?bus.stop:-1,dl=bus?bus.delay||0:0,tm=(bus&&bus.times)||{};
+  $("route").innerHTML=STOPS.map((s,i)=>`<li class="${i<cur?"done":i==cur?"cur":""}"><span>${s[0]}</span><span class="t">${tm[i]!=null?fmt(tm[i]):fmt(mn(s[1])+(i>cur?dl:0))}</span></li>`).join("")}
+render();
+</script></body></html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Arrival Time Prediction | ICET Aluva Bus</title><link rel="stylesheet" href="style.css"></head><body><main>
+<h1>Arrival time prediction</h1>
+<p class="mute">Machine learning model for the ICET Aluva bus. <a href="index.html" style="color:var(--acc)">Live tracker</a></p>
+<div class="card">
+<label>Boarding stop<select id="stop"></select></label>
+<label style="display:block;margin-top:10px">Day<select id="day"><option>Mon<option>Tue<option>Wed<option>Thu<option>Fri<option>Sat</select></label>
+<label style="display:block;margin-top:10px">Weather<select id="rain"><option value="0">Clear<option value="1">Rain</select></label>
+<label style="display:block;margin-top:10px">Traffic<select id="tr"><option value="0">Low<option value="1" selected>Medium<option value="2">High</select></label>
+</div>
+<section class="card"><div class="mute">Predicted arrival at <b id="sn"></b></div><div class="big" id="at"></div><div class="mute" id="info"></div></section>
+<h2>Whole route</h2><ol id="route"></ol>
+<p class="mute" style="font-size:13px;margin-top:24px">Model: Ridge regression using stop position, traffic, rain, weekday and interactions. Trained on 1,440 stop records (R&sup2; 0.70, MAE about 1.6 min). Training data is synthetic and should be replaced with logged real arrivals.</p>
+</main>
+<script src="common.js"></script>
+<script>
+const M={b:0.3659,w:{order:0.2823,traffic:-0.6619,rain:-0.4562,order_x_traffic:0.3931,order_x_rain:0.2763,day_Tue:-0.5419,day_Wed:0.1594,day_Thu:-0.4512,day_Fri:-0.4029,day_Sat:-1.3186,perumbavoor_x_traffic:0.6761}};
+function delay(i,day,rain,tr){const w=M.w,o=i+1;let d=M.b+w.order*o+w.traffic*tr+w.rain*rain+w.order_x_traffic*o*tr+w.order_x_rain*o*rain+(w["day_"+day]||0)+(STOPS[i][0]=="Perumbavoor"?w.perumbavoor_x_traffic*tr:0);return Math.max(d,0)}
+STOPS.forEach((s,i)=>$("stop").add(new Option(s[0],i)));$("stop").value=3;
+function run(){const day=$("day").value,rain=+$("rain").value,tr=+$("tr").value,me=+$("stop").value;
+const d=delay(me,day,rain,tr);$("sn").textContent=STOPS[me][0];$("at").textContent=fmt(mn(STOPS[me][1])+d);
+$("info").textContent="Scheduled "+fmt(mn(STOPS[me][1]))+" | expected delay "+Math.round(d)+" min";
+$("route").innerHTML=STOPS.map((s,i)=>{const dd=delay(i,day,rain,tr);return`<li class="${i==me?"cur":""}"><span>${s[0]}</span><span class="t">${fmt(mn(s[1])+dd)}</span></li>`}).join("")}
+["stop","day","rain","tr"].forEach(i=>$(i).addEventListener("change",run));run();
+</script></body></html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Driver | ICET Aluva Bus</title><link rel="manifest" href="manifest.json"><link rel="stylesheet" href="style.css"></head><body><main>
+<h1>Driver panel</h1><p class="mute">ICET Aluva bus</p>
+<section class="card" id="login"><b>Sign in</b>
+<input id="em" type="email" placeholder="Driver email" autocomplete="username">
+<input id="pw" type="password" placeholder="Password" autocomplete="current-password">
+<button class="p" id="si">Sign in</button></section>
+<section id="panel" hidden>
+<div class="card"><button class="p" id="go">Start sharing location</button><button id="end" hidden>Stop sharing</button></div>
+<details class="card"><summary style="cursor:pointer;font-weight:600">Calibration (first ride only)</summary>
+<p class="mute" style="margin:8px 0 0;font-size:14px">Tap Mark reached at each stop once to save its GPS location. After that the app changes stops automatically when the bus gets within 150 m.</p><select id="sel"></select><button id="reach">Mark reached</button></details>
+<div class="card"><label><input type="checkbox" id="demo" style="width:auto;display:inline;margin:0 8px 0 0">Demo mode (simulated trip, stops advance automatically)</label><select id="dd"><option value="0">On time</option><option value="4">4 min late</option><option value="9">9 min late</option></select></div>
+<button id="out">Sign out</button></section>
+<p class="mute" id="msg"></p></main>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
+<script src="firebase-config.js"></script><script src="common.js"></script>
+<script>
+const auth=firebase.auth();
+let idx=0,watch=null,lat=null,lng=null,lastW=0,times={},wake=null,demoT=null,saved={};
+const dm=()=>$("demo").checked, dly=()=>+$("dd").value;
+STOPS.forEach((s,i)=>$("sel").add(new Option(s[0]+" ("+fmt(mn(s[1]))+")",i)));
+auth.onAuthStateChanged(u=>{$("login").hidden=!!u;$("panel").hidden=!u;
+  if(u)db.ref("stops").once("value").then(s=>{saved=s.val()||{}})});
+$("si").onclick=()=>auth.signInWithEmailAndPassword($("em").value,$("pw").value).catch(e=>$("msg").textContent="Sign in failed: "+e.message);
+$("out").onclick=()=>auth.signOut();
+function push(live=true){
+  const delay=dm()?dly():Math.max(0,nowMin()-mn(STOPS[idx][1]));
+  db.ref("bus").set({stop:idx,delay:Math.round(delay*10)/10,lat,lng,ts:Date.now(),live,times})
+    .catch(e=>$("msg").textContent="Save failed: "+e.message);
+}
+function dist(a,b,c,d){const R=6371000,r=Math.PI/180,x=(c-a)*r,y=(d-b)*r*Math.cos(a*r);return R*Math.sqrt(x*x+y*y)}
+function mark(i){idx=i;$("sel").value=i;times[i]=dm()?mn(STOPS[i][1])+dly():nowMin();push();$("msg").textContent="Reached: "+STOPS[i][0]}
+function stopDemo(){clearInterval(demoT);demoT=null}
+function startDemo(){stopDemo();mark(0);demoT=setInterval(()=>{if(idx<STOPS.length-1)mark(idx+1);else stopDemo()},5000)}
+function autoDetect(){let best=-1,bd=150;
+  STOPS.forEach((s,i)=>{const p=saved[i];if(!p||i<idx)return;const d=dist(lat,lng,p.lat,p.lng);if(d<bd){bd=d;best=i}});
+  if(best>=0&&best!==idx)mark(best)}
+function resetBtns(){$("go").hidden=false;$("end").hidden=true}
+$("go").onclick=async()=>{
+  times={};idx=0;$("go").hidden=true;$("end").hidden=false;
+  $("msg").textContent=dm()?"Demo running: stops advance every 5 seconds.":"Sharing. Keep this page open with the screen on.";
+  try{wake=await navigator.wakeLock.request("screen")}catch(e){}
+  if(dm())startDemo();
+  if(!navigator.geolocation){if(!dm()){$("msg").textContent="No GPS on this device.";resetBtns()}return}
+  watch=navigator.geolocation.watchPosition(p=>{lat=p.coords.latitude;lng=p.coords.longitude;
+    if(!dm())autoDetect();
+    if(Date.now()-lastW>8000){lastW=Date.now();push()}},
+    e=>{if(!dm()){$("msg").textContent="Allow location access, then tap Start again.";resetBtns()}},
+    {enableHighAccuracy:true,maximumAge:5000});
+};
+$("end").onclick=()=>{if(watch!=null)navigator.geolocation.clearWatch(watch);watch=null;stopDemo();
+  if(wake)wake.release();resetBtns();$("msg").textContent="";push(false)};
+$("reach").onclick=()=>{const i=+$("sel").value;mark(i);
+  if(!dm()&&lat!=null){saved[i]={lat,lng};db.ref("stops/"+i).set({lat,lng})}};
+</script></body></html>
